@@ -1,65 +1,82 @@
-Lawmatics USPTO Automation System
+# USPTO Monitoring System (Vercel Deployment)
 
-A full-stack automation suite integrating USPTO, Lawmatics CRM, SendGrid, and Google Drive, enabling real-time document tracking, storage, and CRM updates.
+Automated monitoring of USPTO patent and trademark applications with 6-hour checks.
 
-🧭 Overview
+## Features
 
-The Lawmatics USPTO Automation System automates the process of monitoring trademark and patent filings from the USPTO API, synchronizing data with Lawmatics CRM, and delivering email notifications for new documents — all within a unified dashboard.
+- ✅ **6-Hour Automatic Checks**: Monitors all matters every 6 hours
+- ✅ **Instant Email Alerts**: Get notified when new documents are found
+- ✅ **Google Drive Integration**: Automatically uploads documents to Drive
+- ✅ **Lawmatics Integration**: Updates prospect records automatically
+- ✅ **Comprehensive Dashboard**: Web interface for manual control
+- ✅ **CSV Reports**: Daily reports of all matter statuses
+- ✅ **Multi-Document Support**: Handles multiple documents on same date
 
-| Layer           | Technology                                                                                                                                                                         | Description                        |
-| :-------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------- |
-| 🖥️ Frontend    | [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react\&logoColor=white)](https://reactjs.org/)                                                                       | Interactive dashboard and controls |
-| ⚙️ Backend      | [![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?logo=node.js\&logoColor=white)](https://nodejs.org/) + Express                                                        | Core API and automation engine     |
-| 🗄️ Database    | [![MongoDB](https://img.shields.io/badge/MongoDB-6.x-47A248?logo=mongodb\&logoColor=white)](https://www.mongodb.com/)                                                              | Persistent data storage            |
-| ☁️ Integrations | [SendGrid](https://sendgrid.com/), [Lawmatics API](https://www.lawmatics.com/), [Google Drive API](https://developers.google.com/drive), [USPTO API](https://developer.uspto.gov/) | External integrations              |
-| 🔒 Auth         | OTP (email-based)                                                                                                                                                                  | Secure one-time access             |
+## Deployment to Vercel
 
- - USPTO Integration — Real-time patent & trademark monitoring
- - Lawmatics CRM Automation — Auto-sync with Lawmatics records
- - Email Alerts — Instant SendGrid notifications for new docs
- - Google Drive Integration — Auto-upload & folder structuring
- - Scheduled Automation — Runs every 5 minutes via cron jobs
- - Manual Override — Process specific matters manually
- - OTP Authentication — Secure dashboard access
- - Live Dashboard — Real-time status tracking
+1. **Push this code to GitHub**
 
-Core API Endpoints
+2. **Import to Vercel**:
+   - Go to [vercel.com](https://vercel.com)
+   - Click "Add New" → "Project"
+   - Import your GitHub repository
+   - Configure:
+     - Framework Preset: "Other"
+     - Build Command: (leave empty)
+     - Output Directory: (leave empty)
+     - Install Command: `npm install`
 
-| Area       | Method | Endpoint                           | Description          |
-| ---------- | ------ | ---------------------------------- | -------------------- |
-| Auth       | POST   | `/api/send-otp`                    | Send OTP to email    |
-| Auth       | POST   | `/api/verify-otp`                  | Verify OTP           |
-| Matter     | GET    | `/api/matters`                     | Retrieve all matters |
-| Matter     | POST   | `/api/matters`                     | Add new matter       |
-| USPTO      | GET    | `/api/trademark/:serial`           | Get trademark docs   |
-| USPTO      | GET    | `/api/patent/:appNumber/documents` | Get patent docs      |
-| Automation | POST   | `/api/automation/run-once`         | Run automation once  |
-| Debug      | GET    | `/api/automation/debug`            | Debug info           |
+3. **Add Environment Variables** in Vercel dashboard:
+   - Go to Project → Settings → Environment Variables
+   - Add all variables from `.env.local`
 
-Automation Workflow
-for each matter in map.json:
-  1. Fetch USPTO documents
-  2. Compare with the last processed date
-  3. Download & upload to Google Drive
-  4. Update Lawmatics via API
-  5. Submit Lawmatics form (Puppeteer)
-  6. Send SendGrid notification
-  7. Update state & logs
+4. **Deploy**:
+   - Click "Deploy"
+   - Your site will be live at `https://your-project.vercel.app`
 
-Monitoring & Logs
+## API Endpoints
 
-| Type             | Location                |
-| ---------------- | ----------------------- |
-| Backend Logs     | Render.com dashboard    |
-| Automation State | `/backend/state/`       |
-| Matter Records   | `map.json`              |
-| Debug            | `/api/automation/debug` |
+- `POST /api/monitor` - Trigger manual monitoring
+- `POST /api/report` - Generate and email CSV report
+- `GET /api/health` - Check system health
+- `GET /` - Web dashboard
 
-⚖️ License
-Proprietary Software — © Inspired Idea Solutions.
-Unauthorized redistribution or modification is prohibited.
+## Scheduled Checks
 
+The system automatically runs every 6 hours:
+- 0:00 UTC
+- 6:00 UTC  
+- 12:00 UTC
+- 18:00 UTC
 
+## Email Notifications
 
+You'll receive:
+1. **Immediate alerts** when new documents are found
+2. **Summary emails** after each 6-hour check
+3. **Daily CSV reports** at 9:00 AM
 
+## Manual Commands (via Dashboard)
 
+- **Run Monitor Now**: Triggers immediate check of all matters
+- **Generate Report**: Creates and emails CSV report
+- **Check Health**: Verifies system status
+
+## Local Development
+
+```bash
+# Install dependencies
+npm install
+
+# Set up environment variables
+cp .env.local .env
+# Edit .env with your credentials
+
+# Run locally
+npm run dev
+
+# Test monitoring
+npm run monitor
+
+# Generate report
+npm run report
