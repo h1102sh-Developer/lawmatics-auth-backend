@@ -1,0 +1,4192 @@
+[
+  {
+    "applicationNumber": "10349115",
+    "lawmaticsID": "635563",
+    "type": "Patent",
+    "status": "No Updates Found",
+    "lastUpdated": "2025-10-10T14:59:53.549Z"
+  },
+  {
+    "applicationNumber": "29923820",
+    "lawmaticsID": "6513537",
+    "type": "Patent",
+    "status": "No Updates Found",
+    "lastUpdated": "2025-10-10T14:59:53.560Z"
+  },
+  {
+    "applicationNumber": "PCT/US17/59389",
+    "lawmaticsID": "125632",
+    "type": "Patent",
+    "status": "No Updates Found",
+    "createdAt": "2025-10-10T15:01:39.063Z",
+    "lastUpdated": "2025-10-10T15:01:46.433Z"
+  },
+  {
+    "applicationNumber": "11058753",
+    "lawmaticsID": "572550",
+    "type": "Patent",
+    "status": "No Updates Found",
+    "createdAt": "2025-10-10T15:16:36.955Z",
+    "lastUpdated": "2025-10-10T15:57:42.798Z"
+  },
+  {
+    "applicationNumber": "11708846",
+    "lawmaticsID": "7090850",
+    "type": "Patent",
+    "status": "No Updates Found",
+    "createdAt": "2025-10-10T15:16:36.971Z",
+    "lastUpdated": "2025-10-10T15:57:42.815Z"
+  },
+  {
+    "applicationNumber": "12777039",
+    "lawmaticsID": "635800",
+    "type": "Patent",
+    "status": "No Updates Found",
+    "createdAt": "2025-10-10T15:16:36.985Z",
+    "lastUpdated": "2025-10-10T15:57:42.837Z"
+  },
+  {
+    "applicationNumber": "12905989",
+    "lawmaticsID": "551491",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:36.998Z",
+    "lastUpdated": "2025-10-10T15:16:36.998Z"
+  },
+  {
+    "applicationNumber": "13012894",
+    "lawmaticsID": "1146824",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.017Z",
+    "lastUpdated": "2025-10-10T15:16:37.017Z"
+  },
+  {
+    "applicationNumber": "14248271",
+    "lawmaticsID": "612714",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.031Z",
+    "lastUpdated": "2025-10-10T15:16:37.031Z"
+  },
+  {
+    "applicationNumber": "14575820",
+    "lawmaticsID": "1589192",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.044Z",
+    "lastUpdated": "2025-10-10T15:16:37.044Z"
+  },
+  {
+    "applicationNumber": "14590691",
+    "lawmaticsID": "619407",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.067Z",
+    "lastUpdated": "2025-10-10T15:16:37.067Z"
+  },
+  {
+    "applicationNumber": "14675146",
+    "lawmaticsID": "551267",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.086Z",
+    "lastUpdated": "2025-10-10T15:16:37.086Z"
+  },
+  {
+    "applicationNumber": "14679994",
+    "lawmaticsID": "635793",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.114Z",
+    "lastUpdated": "2025-10-10T15:16:37.116Z"
+  },
+  {
+    "applicationNumber": "14983677",
+    "lawmaticsID": "551292",
+    "type": "Patent",
+    "status": "No Updates Found",
+    "createdAt": "2025-10-10T15:16:37.132Z",
+    "lastUpdated": "2025-10-10T15:58:38.354Z"
+  },
+  {
+    "applicationNumber": "15209056",
+    "lawmaticsID": "635178",
+    "type": "Patent",
+    "status": "No Updates Found",
+    "createdAt": "2025-10-10T15:16:37.152Z",
+    "lastUpdated": "2025-10-10T15:58:38.375Z"
+  },
+  {
+    "applicationNumber": "15294729",
+    "lawmaticsID": "551887",
+    "type": "Patent",
+    "status": "No Updates Found",
+    "createdAt": "2025-10-10T15:16:37.167Z",
+    "lastUpdated": "2025-10-10T15:58:38.538Z"
+  },
+  {
+    "applicationNumber": "15368584",
+    "lawmaticsID": "551574",
+    "type": "Patent",
+    "status": "No Updates Found",
+    "createdAt": "2025-10-10T15:16:37.179Z",
+    "lastUpdated": "2025-10-10T15:58:38.573Z"
+  },
+  {
+    "applicationNumber": "15582056",
+    "lawmaticsID": "6061429",
+    "type": "Patent",
+    "status": "No Updates Found",
+    "createdAt": "2025-10-10T15:16:37.192Z",
+    "lastUpdated": "2025-10-10T15:58:38.603Z"
+  },
+  {
+    "applicationNumber": "15662182",
+    "lawmaticsID": "7400607",
+    "type": "Patent",
+    "status": "No Updates Found",
+    "createdAt": "2025-10-10T15:16:37.204Z",
+    "lastUpdated": "2025-10-10T15:58:38.630Z"
+  },
+  {
+    "applicationNumber": "15716505",
+    "lawmaticsID": "551405",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.230Z",
+    "lastUpdated": "2025-10-10T15:16:37.231Z"
+  },
+  {
+    "applicationNumber": "15788541",
+    "lawmaticsID": "551588",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.260Z",
+    "lastUpdated": "2025-10-10T15:16:37.260Z"
+  },
+  {
+    "applicationNumber": "15799856",
+    "lawmaticsID": "551590",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.280Z",
+    "lastUpdated": "2025-10-10T15:16:37.280Z"
+  },
+  {
+    "applicationNumber": "15899265",
+    "lawmaticsID": "630360",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.292Z",
+    "lastUpdated": "2025-10-10T15:16:37.292Z"
+  },
+  {
+    "applicationNumber": "15990841",
+    "lawmaticsID": "551576",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.313Z",
+    "lastUpdated": "2025-10-10T15:16:37.313Z"
+  },
+  {
+    "applicationNumber": "16018043",
+    "lawmaticsID": "562004",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.326Z",
+    "lastUpdated": "2025-10-10T15:16:37.326Z"
+  },
+  {
+    "applicationNumber": "16045575",
+    "lawmaticsID": "551562",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.338Z",
+    "lastUpdated": "2025-10-10T15:16:37.338Z"
+  },
+  {
+    "applicationNumber": "16051441",
+    "lawmaticsID": "552063",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.359Z",
+    "lastUpdated": "2025-10-10T15:16:37.359Z"
+  },
+  {
+    "applicationNumber": "16174274",
+    "lawmaticsID": "551561",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.373Z",
+    "lastUpdated": "2025-10-10T15:16:37.373Z"
+  },
+  {
+    "applicationNumber": "16194340",
+    "lawmaticsID": "574429",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.386Z",
+    "lastUpdated": "2025-10-10T15:16:37.386Z"
+  },
+  {
+    "applicationNumber": "16264606",
+    "lawmaticsID": "635568",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.398Z",
+    "lastUpdated": "2025-10-10T15:16:37.398Z"
+  },
+  {
+    "applicationNumber": "16288227",
+    "lawmaticsID": "820160",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.410Z",
+    "lastUpdated": "2025-10-10T15:16:37.410Z"
+  },
+  {
+    "applicationNumber": "16293614",
+    "lawmaticsID": "1499436",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.421Z",
+    "lastUpdated": "2025-10-10T15:16:37.421Z"
+  },
+  {
+    "applicationNumber": "16351508",
+    "lawmaticsID": "551571",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.432Z",
+    "lastUpdated": "2025-10-10T15:16:37.432Z"
+  },
+  {
+    "applicationNumber": "16384926",
+    "lawmaticsID": "551589",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.452Z",
+    "lastUpdated": "2025-10-10T15:16:37.452Z"
+  },
+  {
+    "applicationNumber": "16391289",
+    "lawmaticsID": "551763",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.466Z",
+    "lastUpdated": "2025-10-10T15:16:37.466Z"
+  },
+  {
+    "applicationNumber": "16549951",
+    "lawmaticsID": "551933",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.497Z",
+    "lastUpdated": "2025-10-10T15:16:37.497Z"
+  },
+  {
+    "applicationNumber": "16559167",
+    "lawmaticsID": "551989",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.522Z",
+    "lastUpdated": "2025-10-10T15:16:37.522Z"
+  },
+  {
+    "applicationNumber": "16595659",
+    "lawmaticsID": "551583",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.540Z",
+    "lastUpdated": "2025-10-10T15:16:37.540Z"
+  },
+  {
+    "applicationNumber": "16742867",
+    "lawmaticsID": "799472",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.553Z",
+    "lastUpdated": "2025-10-10T15:16:37.553Z"
+  },
+  {
+    "applicationNumber": "16742897",
+    "lawmaticsID": "630478",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.574Z",
+    "lastUpdated": "2025-10-10T15:16:37.574Z"
+  },
+  {
+    "applicationNumber": "16824386",
+    "lawmaticsID": "551559",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.597Z",
+    "lastUpdated": "2025-10-10T15:16:37.597Z"
+  },
+  {
+    "applicationNumber": "16855906",
+    "lawmaticsID": "647386",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.614Z",
+    "lastUpdated": "2025-10-10T15:16:37.614Z"
+  },
+  {
+    "applicationNumber": "16862454",
+    "lawmaticsID": "551573",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.642Z",
+    "lastUpdated": "2025-10-10T15:16:37.642Z"
+  },
+  {
+    "applicationNumber": "16867474",
+    "lawmaticsID": "551557",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.657Z",
+    "lastUpdated": "2025-10-10T15:16:37.657Z"
+  },
+  {
+    "applicationNumber": "16940109",
+    "lawmaticsID": "638209",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.672Z",
+    "lastUpdated": "2025-10-10T15:16:37.672Z"
+  },
+  {
+    "applicationNumber": "16990093",
+    "lawmaticsID": "638672",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.702Z",
+    "lastUpdated": "2025-10-10T15:16:37.702Z"
+  },
+  {
+    "applicationNumber": "17075079",
+    "lawmaticsID": "665017",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.740Z",
+    "lastUpdated": "2025-10-10T15:16:37.740Z"
+  },
+  {
+    "applicationNumber": "17214658",
+    "lawmaticsID": "835752",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.770Z",
+    "lastUpdated": "2025-10-10T15:16:37.770Z"
+  },
+  {
+    "applicationNumber": "17243409",
+    "lawmaticsID": "686305",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.802Z",
+    "lastUpdated": "2025-10-10T15:16:37.802Z"
+  },
+  {
+    "applicationNumber": "17349127",
+    "lawmaticsID": "1207080",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.828Z",
+    "lastUpdated": "2025-10-10T15:16:37.828Z"
+  },
+  {
+    "applicationNumber": "17352088",
+    "lawmaticsID": "909725",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.848Z",
+    "lastUpdated": "2025-10-10T15:16:37.848Z"
+  },
+  {
+    "applicationNumber": "17369651",
+    "lawmaticsID": "1121309",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.866Z",
+    "lastUpdated": "2025-10-10T15:16:37.866Z"
+  },
+  {
+    "applicationNumber": "17392097",
+    "lawmaticsID": "1234490",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.898Z",
+    "lastUpdated": "2025-10-10T15:16:37.898Z"
+  },
+  {
+    "applicationNumber": "17483659",
+    "lawmaticsID": "1234495",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.932Z",
+    "lastUpdated": "2025-10-10T15:16:37.932Z"
+  },
+  {
+    "applicationNumber": "17561864",
+    "lawmaticsID": "6898738",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.964Z",
+    "lastUpdated": "2025-10-10T15:16:37.964Z"
+  },
+  {
+    "applicationNumber": "17725523",
+    "lawmaticsID": "2797216",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:37.994Z",
+    "lastUpdated": "2025-10-10T15:16:37.994Z"
+  },
+  {
+    "applicationNumber": "17810418",
+    "lawmaticsID": "7646856",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.022Z",
+    "lastUpdated": "2025-10-10T15:16:38.022Z"
+  },
+  {
+    "applicationNumber": "17873366",
+    "lawmaticsID": "2249594",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.051Z",
+    "lastUpdated": "2025-10-10T15:16:38.051Z"
+  },
+  {
+    "applicationNumber": "17883517",
+    "lawmaticsID": "2367778",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.077Z",
+    "lastUpdated": "2025-10-10T15:16:38.077Z"
+  },
+  {
+    "applicationNumber": "17960395",
+    "lawmaticsID": "2341629",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.105Z",
+    "lastUpdated": "2025-10-10T15:16:38.105Z"
+  },
+  {
+    "applicationNumber": "18152472",
+    "lawmaticsID": "1532993",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.147Z",
+    "lastUpdated": "2025-10-10T15:16:38.147Z"
+  },
+  {
+    "applicationNumber": "18357831",
+    "lawmaticsID": "6903178",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.166Z",
+    "lastUpdated": "2025-10-10T15:16:38.166Z"
+  },
+  {
+    "applicationNumber": "18444542",
+    "lawmaticsID": "7161344",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.182Z",
+    "lastUpdated": "2025-10-10T15:16:38.182Z"
+  },
+  {
+    "applicationNumber": "18465164",
+    "lawmaticsID": "4067577",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.197Z",
+    "lastUpdated": "2025-10-10T15:16:38.197Z"
+  },
+  {
+    "applicationNumber": "18466738",
+    "lawmaticsID": "5093175",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.228Z",
+    "lastUpdated": "2025-10-10T15:16:38.228Z"
+  },
+  {
+    "applicationNumber": "18526953",
+    "lawmaticsID": "5437318",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.254Z",
+    "lastUpdated": "2025-10-10T15:16:38.254Z"
+  },
+  {
+    "applicationNumber": "18670671",
+    "lawmaticsID": "6699805",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.281Z",
+    "lastUpdated": "2025-10-10T15:16:38.281Z"
+  },
+  {
+    "applicationNumber": "18739521",
+    "lawmaticsID": "7172376",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.311Z",
+    "lastUpdated": "2025-10-10T15:16:38.311Z"
+  },
+  {
+    "applicationNumber": "18753203",
+    "lawmaticsID": "2392115",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.339Z",
+    "lastUpdated": "2025-10-10T15:16:38.339Z"
+  },
+  {
+    "applicationNumber": "18793511",
+    "lawmaticsID": "8434637",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.366Z",
+    "lastUpdated": "2025-10-10T15:16:38.366Z"
+  },
+  {
+    "applicationNumber": "18907172",
+    "lawmaticsID": "8566036",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.383Z",
+    "lastUpdated": "2025-10-10T15:16:38.383Z"
+  },
+  {
+    "applicationNumber": "18970811",
+    "lawmaticsID": "8884254",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.407Z",
+    "lastUpdated": "2025-10-10T15:16:38.407Z"
+  },
+  {
+    "applicationNumber": "19064351",
+    "lawmaticsID": "10670494",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.436Z",
+    "lastUpdated": "2025-10-10T15:16:38.436Z"
+  },
+  {
+    "applicationNumber": "19284108",
+    "lawmaticsID": "9235480",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.465Z",
+    "lastUpdated": "2025-10-10T15:16:38.465Z"
+  },
+  {
+    "applicationNumber": "29561160",
+    "lawmaticsID": "552062",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.495Z",
+    "lastUpdated": "2025-10-10T15:16:38.495Z"
+  },
+  {
+    "applicationNumber": "29760944",
+    "lawmaticsID": "884841",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.526Z",
+    "lastUpdated": "2025-10-10T15:16:38.526Z"
+  },
+  {
+    "applicationNumber": "29797224",
+    "lawmaticsID": "910493",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.555Z",
+    "lastUpdated": "2025-10-10T15:16:38.555Z"
+  },
+  {
+    "applicationNumber": "29817076",
+    "lawmaticsID": "10346950",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.585Z",
+    "lastUpdated": "2025-10-10T15:16:38.585Z"
+  },
+  {
+    "applicationNumber": "29845152",
+    "lawmaticsID": "1835865",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.605Z",
+    "lastUpdated": "2025-10-10T15:16:38.605Z"
+  },
+  {
+    "applicationNumber": "29871712",
+    "lawmaticsID": "4531739",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.623Z",
+    "lastUpdated": "2025-10-10T15:16:38.623Z"
+  },
+  {
+    "applicationNumber": "29876312",
+    "lawmaticsID": "4531725",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.655Z",
+    "lastUpdated": "2025-10-10T15:16:38.655Z"
+  },
+  {
+    "applicationNumber": "29878761",
+    "lawmaticsID": "4570135",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.691Z",
+    "lastUpdated": "2025-10-10T15:16:38.691Z"
+  },
+  {
+    "applicationNumber": "29911944",
+    "lawmaticsID": "4059756",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.730Z",
+    "lastUpdated": "2025-10-10T15:16:38.730Z"
+  },
+  {
+    "applicationNumber": "29943302",
+    "lawmaticsID": "6528916",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.768Z",
+    "lastUpdated": "2025-10-10T15:16:38.768Z"
+  },
+  {
+    "applicationNumber": "29989208",
+    "lawmaticsID": "8850824",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.800Z",
+    "lastUpdated": "2025-10-10T15:16:38.800Z"
+  },
+  {
+    "applicationNumber": "62535831",
+    "lawmaticsID": "580781",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.829Z",
+    "lastUpdated": "2025-10-10T15:16:38.829Z"
+  },
+  {
+    "applicationNumber": "62783709",
+    "lawmaticsID": "551397",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.858Z",
+    "lastUpdated": "2025-10-10T15:16:38.858Z"
+  },
+  {
+    "applicationNumber": "62838025",
+    "lawmaticsID": "551346",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.887Z",
+    "lastUpdated": "2025-10-10T15:16:38.887Z"
+  },
+  {
+    "applicationNumber": "62846723",
+    "lawmaticsID": "563281",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.916Z",
+    "lastUpdated": "2025-10-10T15:16:38.916Z"
+  },
+  {
+    "applicationNumber": "63067325",
+    "lawmaticsID": "551259",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.950Z",
+    "lastUpdated": "2025-10-10T15:16:38.950Z"
+  },
+  {
+    "applicationNumber": "63109319",
+    "lawmaticsID": "894794",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:38.983Z",
+    "lastUpdated": "2025-10-10T15:16:38.983Z"
+  },
+  {
+    "applicationNumber": "63265082",
+    "lawmaticsID": "1680787",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.013Z",
+    "lastUpdated": "2025-10-10T15:16:39.013Z"
+  },
+  {
+    "applicationNumber": "63271643",
+    "lawmaticsID": "1129904",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.042Z",
+    "lastUpdated": "2025-10-10T15:16:39.042Z"
+  },
+  {
+    "applicationNumber": "63484472",
+    "lawmaticsID": "3366054",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.072Z",
+    "lastUpdated": "2025-10-10T15:16:39.072Z"
+  },
+  {
+    "applicationNumber": "63711395",
+    "lawmaticsID": "9560216",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.108Z",
+    "lastUpdated": "2025-10-10T15:16:39.108Z"
+  },
+  {
+    "applicationNumber": "63712977",
+    "lawmaticsID": "9328367",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.138Z",
+    "lastUpdated": "2025-10-10T15:16:39.138Z"
+  },
+  {
+    "applicationNumber": "63721173",
+    "lawmaticsID": "9380374",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.166Z",
+    "lastUpdated": "2025-10-10T15:16:39.166Z"
+  },
+  {
+    "applicationNumber": "63807519",
+    "lawmaticsID": "10395470",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.191Z",
+    "lastUpdated": "2025-10-10T15:16:39.191Z"
+  },
+  {
+    "applicationNumber": "63825502",
+    "lawmaticsID": "4946527",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.209Z",
+    "lastUpdated": "2025-10-10T15:16:39.209Z"
+  },
+  {
+    "applicationNumber": "63842476",
+    "lawmaticsID": "11568027",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.234Z",
+    "lastUpdated": "2025-10-10T15:16:39.234Z"
+  },
+  {
+    "applicationNumber": "72072094",
+    "lawmaticsID": "551539",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.263Z",
+    "lastUpdated": "2025-10-10T15:16:39.263Z"
+  },
+  {
+    "applicationNumber": "73665228",
+    "lawmaticsID": "2790517",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.278Z",
+    "lastUpdated": "2025-10-10T15:16:39.278Z"
+  },
+  {
+    "applicationNumber": "74614589",
+    "lawmaticsID": "4935864",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.295Z",
+    "lastUpdated": "2025-10-10T15:16:39.295Z"
+  },
+  {
+    "applicationNumber": "75906366",
+    "lawmaticsID": "551308",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.325Z",
+    "lastUpdated": "2025-10-10T15:16:39.325Z"
+  },
+  {
+    "applicationNumber": "76124218",
+    "lawmaticsID": "9234998",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.365Z",
+    "lastUpdated": "2025-10-10T15:16:39.365Z"
+  },
+  {
+    "applicationNumber": "76546032",
+    "lawmaticsID": "551378",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.399Z",
+    "lastUpdated": "2025-10-10T15:16:39.399Z"
+  },
+  {
+    "applicationNumber": "77032930",
+    "lawmaticsID": "2799442",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.428Z",
+    "lastUpdated": "2025-10-10T15:16:39.428Z"
+  },
+  {
+    "applicationNumber": "77136030",
+    "lawmaticsID": "2789749",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.455Z",
+    "lastUpdated": "2025-10-10T15:16:39.455Z"
+  },
+  {
+    "applicationNumber": "77363662",
+    "lawmaticsID": "2789106",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.484Z",
+    "lastUpdated": "2025-10-10T15:16:39.484Z"
+  },
+  {
+    "applicationNumber": "77568825",
+    "lawmaticsID": "4573382",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.513Z",
+    "lastUpdated": "2025-10-10T15:16:39.513Z"
+  },
+  {
+    "applicationNumber": "77587159",
+    "lawmaticsID": "551860",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.547Z",
+    "lastUpdated": "2025-10-10T15:16:39.547Z"
+  },
+  {
+    "applicationNumber": "77641394",
+    "lawmaticsID": "9110248",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.579Z",
+    "lastUpdated": "2025-10-10T15:16:39.579Z"
+  },
+  {
+    "applicationNumber": "78577029",
+    "lawmaticsID": "2789086",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.612Z",
+    "lastUpdated": "2025-10-10T15:16:39.612Z"
+  },
+  {
+    "applicationNumber": "78873217",
+    "lawmaticsID": "4132039",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.647Z",
+    "lastUpdated": "2025-10-10T15:16:39.647Z"
+  },
+  {
+    "applicationNumber": "78873248",
+    "lawmaticsID": "4573332",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.682Z",
+    "lastUpdated": "2025-10-10T15:16:39.682Z"
+  },
+  {
+    "applicationNumber": "78873262",
+    "lawmaticsID": "4573285",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.718Z",
+    "lastUpdated": "2025-10-10T15:16:39.718Z"
+  },
+  {
+    "applicationNumber": "78902532",
+    "lawmaticsID": "4573066",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.753Z",
+    "lastUpdated": "2025-10-10T15:16:39.753Z"
+  },
+  {
+    "applicationNumber": "78912050",
+    "lawmaticsID": "4572921",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.785Z",
+    "lastUpdated": "2025-10-10T15:16:39.785Z"
+  },
+  {
+    "applicationNumber": "78912068",
+    "lawmaticsID": "4570008",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.821Z",
+    "lastUpdated": "2025-10-10T15:16:39.821Z"
+  },
+  {
+    "applicationNumber": "78961083",
+    "lawmaticsID": "2790052",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.854Z",
+    "lastUpdated": "2025-10-10T15:16:39.855Z"
+  },
+  {
+    "applicationNumber": "78979658",
+    "lawmaticsID": "4572825",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.883Z",
+    "lastUpdated": "2025-10-10T15:16:39.883Z"
+  },
+  {
+    "applicationNumber": "78980183",
+    "lawmaticsID": "4570068",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.917Z",
+    "lastUpdated": "2025-10-10T15:16:39.917Z"
+  },
+  {
+    "applicationNumber": "79352820",
+    "lawmaticsID": "6519699",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.948Z",
+    "lastUpdated": "2025-10-10T15:16:39.948Z"
+  },
+  {
+    "applicationNumber": "85159476",
+    "lawmaticsID": "681822",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:39.983Z",
+    "lastUpdated": "2025-10-10T15:16:39.983Z"
+  },
+  {
+    "applicationNumber": "85205676",
+    "lawmaticsID": "1133842",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.005Z",
+    "lastUpdated": "2025-10-10T15:16:40.005Z"
+  },
+  {
+    "applicationNumber": "85255876",
+    "lawmaticsID": "1549344",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.034Z",
+    "lastUpdated": "2025-10-10T15:16:40.034Z"
+  },
+  {
+    "applicationNumber": "85276718",
+    "lawmaticsID": "4569967",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.067Z",
+    "lastUpdated": "2025-10-10T15:16:40.067Z"
+  },
+  {
+    "applicationNumber": "85284180",
+    "lawmaticsID": "728600",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.085Z",
+    "lastUpdated": "2025-10-10T15:16:40.085Z"
+  },
+  {
+    "applicationNumber": "85384616",
+    "lawmaticsID": "728615",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.099Z",
+    "lastUpdated": "2025-10-10T15:16:40.099Z"
+  },
+  {
+    "applicationNumber": "85432762",
+    "lawmaticsID": "2115913",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.113Z",
+    "lastUpdated": "2025-10-10T15:16:40.113Z"
+  },
+  {
+    "applicationNumber": "85443000",
+    "lawmaticsID": "1364468",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.130Z",
+    "lastUpdated": "2025-10-10T15:16:40.130Z"
+  },
+  {
+    "applicationNumber": "85459317",
+    "lawmaticsID": "729123",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.147Z",
+    "lastUpdated": "2025-10-10T15:16:40.147Z"
+  },
+  {
+    "applicationNumber": "85479901",
+    "lawmaticsID": "1006170",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.167Z",
+    "lastUpdated": "2025-10-10T15:16:40.167Z"
+  },
+  {
+    "applicationNumber": "85658539",
+    "lawmaticsID": "2359673",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.186Z",
+    "lastUpdated": "2025-10-10T15:16:40.186Z"
+  },
+  {
+    "applicationNumber": "85658545",
+    "lawmaticsID": "729157",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.204Z",
+    "lastUpdated": "2025-10-10T15:16:40.204Z"
+  },
+  {
+    "applicationNumber": "85670688",
+    "lawmaticsID": "729143",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.238Z",
+    "lastUpdated": "2025-10-10T15:16:40.238Z"
+  },
+  {
+    "applicationNumber": "85802425",
+    "lawmaticsID": "2799455",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.270Z",
+    "lastUpdated": "2025-10-10T15:16:40.270Z"
+  },
+  {
+    "applicationNumber": "86052841",
+    "lawmaticsID": "2799453",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.304Z",
+    "lastUpdated": "2025-10-10T15:16:40.304Z"
+  },
+  {
+    "applicationNumber": "86059193",
+    "lawmaticsID": "551823",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.319Z",
+    "lastUpdated": "2025-10-10T15:16:40.319Z"
+  },
+  {
+    "applicationNumber": "86080009",
+    "lawmaticsID": "551833",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.355Z",
+    "lastUpdated": "2025-10-10T15:16:40.355Z"
+  },
+  {
+    "applicationNumber": "86096220",
+    "lawmaticsID": "974507",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.380Z",
+    "lastUpdated": "2025-10-10T15:16:40.380Z"
+  },
+  {
+    "applicationNumber": "86297895",
+    "lawmaticsID": "1404050",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.394Z",
+    "lastUpdated": "2025-10-10T15:16:40.394Z"
+  },
+  {
+    "applicationNumber": "86298521",
+    "lawmaticsID": "674282",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.407Z",
+    "lastUpdated": "2025-10-10T15:16:40.407Z"
+  },
+  {
+    "applicationNumber": "86366222",
+    "lawmaticsID": "671546",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.419Z",
+    "lastUpdated": "2025-10-10T15:16:40.419Z"
+  },
+  {
+    "applicationNumber": "86384467",
+    "lawmaticsID": "4497856",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.433Z",
+    "lastUpdated": "2025-10-10T15:16:40.433Z"
+  },
+  {
+    "applicationNumber": "86400803",
+    "lawmaticsID": "1998019",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.447Z",
+    "lastUpdated": "2025-10-10T15:16:40.447Z"
+  },
+  {
+    "applicationNumber": "86516692",
+    "lawmaticsID": "1263557",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.462Z",
+    "lastUpdated": "2025-10-10T15:16:40.462Z"
+  },
+  {
+    "applicationNumber": "86517928",
+    "lawmaticsID": "551986",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.476Z",
+    "lastUpdated": "2025-10-10T15:16:40.476Z"
+  },
+  {
+    "applicationNumber": "86541543",
+    "lawmaticsID": "671537",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.487Z",
+    "lastUpdated": "2025-10-10T15:16:40.487Z"
+  },
+  {
+    "applicationNumber": "86619082",
+    "lawmaticsID": "837450",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.501Z",
+    "lastUpdated": "2025-10-10T15:16:40.501Z"
+  },
+  {
+    "applicationNumber": "86644496",
+    "lawmaticsID": "1113546",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.533Z",
+    "lastUpdated": "2025-10-10T15:16:40.533Z"
+  },
+  {
+    "applicationNumber": "86673379",
+    "lawmaticsID": "1258797",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.578Z",
+    "lastUpdated": "2025-10-10T15:16:40.578Z"
+  },
+  {
+    "applicationNumber": "86673401",
+    "lawmaticsID": "1258761",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.615Z",
+    "lastUpdated": "2025-10-10T15:16:40.615Z"
+  },
+  {
+    "applicationNumber": "86675979",
+    "lawmaticsID": "674279",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.652Z",
+    "lastUpdated": "2025-10-10T15:16:40.652Z"
+  },
+  {
+    "applicationNumber": "86707937",
+    "lawmaticsID": "551505",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.699Z",
+    "lastUpdated": "2025-10-10T15:16:40.699Z"
+  },
+  {
+    "applicationNumber": "86832962",
+    "lawmaticsID": "681335",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.739Z",
+    "lastUpdated": "2025-10-10T15:16:40.739Z"
+  },
+  {
+    "applicationNumber": "86926078",
+    "lawmaticsID": "681371",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.778Z",
+    "lastUpdated": "2025-10-10T15:16:40.778Z"
+  },
+  {
+    "applicationNumber": "86956135",
+    "lawmaticsID": "678219",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.816Z",
+    "lastUpdated": "2025-10-10T15:16:40.817Z"
+  },
+  {
+    "applicationNumber": "86956440",
+    "lawmaticsID": "678206",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.859Z",
+    "lastUpdated": "2025-10-10T15:16:40.859Z"
+  },
+  {
+    "applicationNumber": "86961601",
+    "lawmaticsID": "681217",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.901Z",
+    "lastUpdated": "2025-10-10T15:16:40.901Z"
+  },
+  {
+    "applicationNumber": "86961677",
+    "lawmaticsID": "1835529",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.947Z",
+    "lastUpdated": "2025-10-10T15:16:40.947Z"
+  },
+  {
+    "applicationNumber": "86964585",
+    "lawmaticsID": "1686069",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:40.993Z",
+    "lastUpdated": "2025-10-10T15:16:40.993Z"
+  },
+  {
+    "applicationNumber": "86967295",
+    "lawmaticsID": "681373",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.035Z",
+    "lastUpdated": "2025-10-10T15:16:41.035Z"
+  },
+  {
+    "applicationNumber": "87009921",
+    "lawmaticsID": "674292",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.063Z",
+    "lastUpdated": "2025-10-10T15:16:41.063Z"
+  },
+  {
+    "applicationNumber": "87016536",
+    "lawmaticsID": "678229",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.080Z",
+    "lastUpdated": "2025-10-10T15:16:41.080Z"
+  },
+  {
+    "applicationNumber": "87092498",
+    "lawmaticsID": "681362",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.113Z",
+    "lastUpdated": "2025-10-10T15:16:41.113Z"
+  },
+  {
+    "applicationNumber": "87092500",
+    "lawmaticsID": "681233",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.153Z",
+    "lastUpdated": "2025-10-10T15:16:41.153Z"
+  },
+  {
+    "applicationNumber": "87092503",
+    "lawmaticsID": "681294",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.191Z",
+    "lastUpdated": "2025-10-10T15:16:41.192Z"
+  },
+  {
+    "applicationNumber": "87112312",
+    "lawmaticsID": "551400",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.236Z",
+    "lastUpdated": "2025-10-10T15:16:41.236Z"
+  },
+  {
+    "applicationNumber": "87132539",
+    "lawmaticsID": "678244",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.264Z",
+    "lastUpdated": "2025-10-10T15:16:41.264Z"
+  },
+  {
+    "applicationNumber": "87132609",
+    "lawmaticsID": "2789863",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.290Z",
+    "lastUpdated": "2025-10-10T15:16:41.290Z"
+  },
+  {
+    "applicationNumber": "87148601",
+    "lawmaticsID": "678258",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.320Z",
+    "lastUpdated": "2025-10-10T15:16:41.321Z"
+  },
+  {
+    "applicationNumber": "87168676",
+    "lawmaticsID": "2045958",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.347Z",
+    "lastUpdated": "2025-10-10T15:16:41.347Z"
+  },
+  {
+    "applicationNumber": "87170148",
+    "lawmaticsID": "681329",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.375Z",
+    "lastUpdated": "2025-10-10T15:16:41.375Z"
+  },
+  {
+    "applicationNumber": "87174105",
+    "lawmaticsID": "681806",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.390Z",
+    "lastUpdated": "2025-10-10T15:16:41.390Z"
+  },
+  {
+    "applicationNumber": "87188564",
+    "lawmaticsID": "551320",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.404Z",
+    "lastUpdated": "2025-10-10T15:16:41.404Z"
+  },
+  {
+    "applicationNumber": "87192690",
+    "lawmaticsID": "551939",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.432Z",
+    "lastUpdated": "2025-10-10T15:16:41.432Z"
+  },
+  {
+    "applicationNumber": "87195678",
+    "lawmaticsID": "681381",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.460Z",
+    "lastUpdated": "2025-10-10T15:16:41.460Z"
+  },
+  {
+    "applicationNumber": "87230742",
+    "lawmaticsID": "681324",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.476Z",
+    "lastUpdated": "2025-10-10T15:16:41.476Z"
+  },
+  {
+    "applicationNumber": "87237999",
+    "lawmaticsID": "681803",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.527Z",
+    "lastUpdated": "2025-10-10T15:16:41.527Z"
+  },
+  {
+    "applicationNumber": "87238012",
+    "lawmaticsID": "681805",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.547Z",
+    "lastUpdated": "2025-10-10T15:16:41.547Z"
+  },
+  {
+    "applicationNumber": "87238027",
+    "lawmaticsID": "681398",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.569Z",
+    "lastUpdated": "2025-10-10T15:16:41.569Z"
+  },
+  {
+    "applicationNumber": "87258046",
+    "lawmaticsID": "681377",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.592Z",
+    "lastUpdated": "2025-10-10T15:16:41.592Z"
+  },
+  {
+    "applicationNumber": "87278369",
+    "lawmaticsID": "681807",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.608Z",
+    "lastUpdated": "2025-10-10T15:16:41.608Z"
+  },
+  {
+    "applicationNumber": "87326300",
+    "lawmaticsID": "681385",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.631Z",
+    "lastUpdated": "2025-10-10T15:16:41.631Z"
+  },
+  {
+    "applicationNumber": "87417658",
+    "lawmaticsID": "681813",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.650Z",
+    "lastUpdated": "2025-10-10T15:16:41.650Z"
+  },
+  {
+    "applicationNumber": "87499482",
+    "lawmaticsID": "2475780",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.680Z",
+    "lastUpdated": "2025-10-10T15:16:41.680Z"
+  },
+  {
+    "applicationNumber": "87557520",
+    "lawmaticsID": "681808",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.709Z",
+    "lastUpdated": "2025-10-10T15:16:41.709Z"
+  },
+  {
+    "applicationNumber": "87609075",
+    "lawmaticsID": "2822651",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.741Z",
+    "lastUpdated": "2025-10-10T15:16:41.741Z"
+  },
+  {
+    "applicationNumber": "87681041",
+    "lawmaticsID": "681814",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.771Z",
+    "lastUpdated": "2025-10-10T15:16:41.771Z"
+  },
+  {
+    "applicationNumber": "87757467",
+    "lawmaticsID": "6658795",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.798Z",
+    "lastUpdated": "2025-10-10T15:16:41.798Z"
+  },
+  {
+    "applicationNumber": "87776487",
+    "lawmaticsID": "681816",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.828Z",
+    "lastUpdated": "2025-10-10T15:16:41.828Z"
+  },
+  {
+    "applicationNumber": "87901282",
+    "lawmaticsID": "681820",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.866Z",
+    "lastUpdated": "2025-10-10T15:16:41.866Z"
+  },
+  {
+    "applicationNumber": "87901290",
+    "lawmaticsID": "681817",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.897Z",
+    "lastUpdated": "2025-10-10T15:16:41.897Z"
+  },
+  {
+    "applicationNumber": "87901326",
+    "lawmaticsID": "681819",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.934Z",
+    "lastUpdated": "2025-10-10T15:16:41.934Z"
+  },
+  {
+    "applicationNumber": "87901415",
+    "lawmaticsID": "681818",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.960Z",
+    "lastUpdated": "2025-10-10T15:16:41.960Z"
+  },
+  {
+    "applicationNumber": "88118239",
+    "lawmaticsID": "681823",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.982Z",
+    "lastUpdated": "2025-10-10T15:16:41.982Z"
+  },
+  {
+    "applicationNumber": "88118246",
+    "lawmaticsID": "681824",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:41.998Z",
+    "lastUpdated": "2025-10-10T15:16:41.998Z"
+  },
+  {
+    "applicationNumber": "88201172",
+    "lawmaticsID": "11460790",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.014Z",
+    "lastUpdated": "2025-10-10T15:16:42.014Z"
+  },
+  {
+    "applicationNumber": "88211310",
+    "lawmaticsID": "681826",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.029Z",
+    "lastUpdated": "2025-10-10T15:16:42.029Z"
+  },
+  {
+    "applicationNumber": "88244440",
+    "lawmaticsID": "2799436",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.045Z",
+    "lastUpdated": "2025-10-10T15:16:42.045Z"
+  },
+  {
+    "applicationNumber": "88332900",
+    "lawmaticsID": "3878030",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.065Z",
+    "lastUpdated": "2025-10-10T15:16:42.065Z"
+  },
+  {
+    "applicationNumber": "88348588",
+    "lawmaticsID": "647436",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.100Z",
+    "lastUpdated": "2025-10-10T15:16:42.100Z"
+  },
+  {
+    "applicationNumber": "88409850",
+    "lawmaticsID": "551592",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.147Z",
+    "lastUpdated": "2025-10-10T15:16:42.147Z"
+  },
+  {
+    "applicationNumber": "88410043",
+    "lawmaticsID": "681827",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.187Z",
+    "lastUpdated": "2025-10-10T15:16:42.187Z"
+  },
+  {
+    "applicationNumber": "88524778",
+    "lawmaticsID": "551363",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.212Z",
+    "lastUpdated": "2025-10-10T15:16:42.212Z"
+  },
+  {
+    "applicationNumber": "88584006",
+    "lawmaticsID": "13054648",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.244Z",
+    "lastUpdated": "2025-10-10T15:16:42.244Z"
+  },
+  {
+    "applicationNumber": "88600966",
+    "lawmaticsID": "551558",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.275Z",
+    "lastUpdated": "2025-10-10T15:16:42.275Z"
+  },
+  {
+    "applicationNumber": "88717778",
+    "lawmaticsID": "902604",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.302Z",
+    "lastUpdated": "2025-10-10T15:16:42.302Z"
+  },
+  {
+    "applicationNumber": "88725426",
+    "lawmaticsID": "681830",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.331Z",
+    "lastUpdated": "2025-10-10T15:16:42.331Z"
+  },
+  {
+    "applicationNumber": "88784237",
+    "lawmaticsID": "4995730",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.366Z",
+    "lastUpdated": "2025-10-10T15:16:42.366Z"
+  },
+  {
+    "applicationNumber": "88814472",
+    "lawmaticsID": "1378999",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.392Z",
+    "lastUpdated": "2025-10-10T15:16:42.392Z"
+  },
+  {
+    "applicationNumber": "88820264",
+    "lawmaticsID": "788822",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.436Z",
+    "lastUpdated": "2025-10-10T15:16:42.436Z"
+  },
+  {
+    "applicationNumber": "88820363",
+    "lawmaticsID": "788794",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.473Z",
+    "lastUpdated": "2025-10-10T15:16:42.473Z"
+  },
+  {
+    "applicationNumber": "88846503",
+    "lawmaticsID": "630481",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.524Z",
+    "lastUpdated": "2025-10-10T15:16:42.524Z"
+  },
+  {
+    "applicationNumber": "88855081",
+    "lawmaticsID": "1275309",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.588Z",
+    "lastUpdated": "2025-10-10T15:16:42.588Z"
+  },
+  {
+    "applicationNumber": "88855116",
+    "lawmaticsID": "820075",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.626Z",
+    "lastUpdated": "2025-10-10T15:16:42.626Z"
+  },
+  {
+    "applicationNumber": "88861740",
+    "lawmaticsID": "551594",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.660Z",
+    "lastUpdated": "2025-10-10T15:16:42.660Z"
+  },
+  {
+    "applicationNumber": "88887759",
+    "lawmaticsID": "551577",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.720Z",
+    "lastUpdated": "2025-10-10T15:16:42.721Z"
+  },
+  {
+    "applicationNumber": "88907100",
+    "lawmaticsID": "653208",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.745Z",
+    "lastUpdated": "2025-10-10T15:16:42.745Z"
+  },
+  {
+    "applicationNumber": "88944745",
+    "lawmaticsID": "551604",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.781Z",
+    "lastUpdated": "2025-10-10T15:16:42.781Z"
+  },
+  {
+    "applicationNumber": "88962971",
+    "lawmaticsID": "765699",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.816Z",
+    "lastUpdated": "2025-10-10T15:16:42.816Z"
+  },
+  {
+    "applicationNumber": "88962992",
+    "lawmaticsID": "551572",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.861Z",
+    "lastUpdated": "2025-10-10T15:16:42.861Z"
+  },
+  {
+    "applicationNumber": "88963139",
+    "lawmaticsID": "551564",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.904Z",
+    "lastUpdated": "2025-10-10T15:16:42.904Z"
+  },
+  {
+    "applicationNumber": "90094666",
+    "lawmaticsID": "592228",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.939Z",
+    "lastUpdated": "2025-10-10T15:16:42.939Z"
+  },
+  {
+    "applicationNumber": "90122784",
+    "lawmaticsID": "581279",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.956Z",
+    "lastUpdated": "2025-10-10T15:16:42.956Z"
+  },
+  {
+    "applicationNumber": "90166366",
+    "lawmaticsID": "647387",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:42.993Z",
+    "lastUpdated": "2025-10-10T15:16:42.993Z"
+  },
+  {
+    "applicationNumber": "90189257",
+    "lawmaticsID": "1590526",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.048Z",
+    "lastUpdated": "2025-10-10T15:16:43.048Z"
+  },
+  {
+    "applicationNumber": "90192560",
+    "lawmaticsID": "697953",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.087Z",
+    "lastUpdated": "2025-10-10T15:16:43.087Z"
+  },
+  {
+    "applicationNumber": "90305562",
+    "lawmaticsID": "1073440",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.132Z",
+    "lastUpdated": "2025-10-10T15:16:43.132Z"
+  },
+  {
+    "applicationNumber": "90340600",
+    "lawmaticsID": "835494",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.158Z",
+    "lastUpdated": "2025-10-10T15:16:43.158Z"
+  },
+  {
+    "applicationNumber": "90449642",
+    "lawmaticsID": "862437",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.192Z",
+    "lastUpdated": "2025-10-10T15:16:43.192Z"
+  },
+  {
+    "applicationNumber": "90451241",
+    "lawmaticsID": "773436",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.221Z",
+    "lastUpdated": "2025-10-10T15:16:43.221Z"
+  },
+  {
+    "applicationNumber": "90451299",
+    "lawmaticsID": "905068",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.254Z",
+    "lastUpdated": "2025-10-10T15:16:43.254Z"
+  },
+  {
+    "applicationNumber": "90468678",
+    "lawmaticsID": "551946",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.282Z",
+    "lastUpdated": "2025-10-10T15:16:43.282Z"
+  },
+  {
+    "applicationNumber": "90506952",
+    "lawmaticsID": "1434394",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.311Z",
+    "lastUpdated": "2025-10-10T15:16:43.311Z"
+  },
+  {
+    "applicationNumber": "90522393",
+    "lawmaticsID": "787443",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.342Z",
+    "lastUpdated": "2025-10-10T15:16:43.343Z"
+  },
+  {
+    "applicationNumber": "90522401",
+    "lawmaticsID": "1773561",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.384Z",
+    "lastUpdated": "2025-10-10T15:16:43.384Z"
+  },
+  {
+    "applicationNumber": "90524070",
+    "lawmaticsID": "1771503",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.429Z",
+    "lastUpdated": "2025-10-10T15:16:43.429Z"
+  },
+  {
+    "applicationNumber": "90604116",
+    "lawmaticsID": "551825",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.448Z",
+    "lastUpdated": "2025-10-10T15:16:43.448Z"
+  },
+  {
+    "applicationNumber": "90622063",
+    "lawmaticsID": "778987",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.478Z",
+    "lastUpdated": "2025-10-10T15:16:43.478Z"
+  },
+  {
+    "applicationNumber": "90627340",
+    "lawmaticsID": "1993497",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.507Z",
+    "lastUpdated": "2025-10-10T15:16:43.507Z"
+  },
+  {
+    "applicationNumber": "90652874",
+    "lawmaticsID": "1906624",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.536Z",
+    "lastUpdated": "2025-10-10T15:16:43.536Z"
+  },
+  {
+    "applicationNumber": "90675390",
+    "lawmaticsID": "1016184",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.573Z",
+    "lastUpdated": "2025-10-10T15:16:43.573Z"
+  },
+  {
+    "applicationNumber": "90710854",
+    "lawmaticsID": "1692569",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.612Z",
+    "lastUpdated": "2025-10-10T15:16:43.612Z"
+  },
+  {
+    "applicationNumber": "90732706",
+    "lawmaticsID": "7478690",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.650Z",
+    "lastUpdated": "2025-10-10T15:16:43.650Z"
+  },
+  {
+    "applicationNumber": "90752601",
+    "lawmaticsID": "2084469",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.670Z",
+    "lastUpdated": "2025-10-10T15:16:43.670Z"
+  },
+  {
+    "applicationNumber": "90777354",
+    "lawmaticsID": "551657",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.692Z",
+    "lastUpdated": "2025-10-10T15:16:43.692Z"
+  },
+  {
+    "applicationNumber": "90811391",
+    "lawmaticsID": "1433271",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.712Z",
+    "lastUpdated": "2025-10-10T15:16:43.712Z"
+  },
+  {
+    "applicationNumber": "90865330",
+    "lawmaticsID": "2471718",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.740Z",
+    "lastUpdated": "2025-10-10T15:16:43.740Z"
+  },
+  {
+    "applicationNumber": "90875889",
+    "lawmaticsID": "551656",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.770Z",
+    "lastUpdated": "2025-10-10T15:16:43.770Z"
+  },
+  {
+    "applicationNumber": "90904466",
+    "lawmaticsID": "2643195",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.800Z",
+    "lastUpdated": "2025-10-10T15:16:43.800Z"
+  },
+  {
+    "applicationNumber": "97011893",
+    "lawmaticsID": "12401503",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.832Z",
+    "lastUpdated": "2025-10-10T15:16:43.832Z"
+  },
+  {
+    "applicationNumber": "97033637",
+    "lawmaticsID": "2834072",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.851Z",
+    "lastUpdated": "2025-10-10T15:16:43.851Z"
+  },
+  {
+    "applicationNumber": "97036010",
+    "lawmaticsID": "7996301",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.893Z",
+    "lastUpdated": "2025-10-10T15:16:43.893Z"
+  },
+  {
+    "applicationNumber": "97042618",
+    "lawmaticsID": "1297895",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.942Z",
+    "lastUpdated": "2025-10-10T15:16:43.942Z"
+  },
+  {
+    "applicationNumber": "97059187",
+    "lawmaticsID": "1140335",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:43.977Z",
+    "lastUpdated": "2025-10-10T15:16:43.977Z"
+  },
+  {
+    "applicationNumber": "97150752",
+    "lawmaticsID": "1528443",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.002Z",
+    "lastUpdated": "2025-10-10T15:16:44.002Z"
+  },
+  {
+    "applicationNumber": "97182199",
+    "lawmaticsID": "1122682",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.044Z",
+    "lastUpdated": "2025-10-10T15:16:44.044Z"
+  },
+  {
+    "applicationNumber": "97211147",
+    "lawmaticsID": "1766885",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.079Z",
+    "lastUpdated": "2025-10-10T15:16:44.079Z"
+  },
+  {
+    "applicationNumber": "97254397",
+    "lawmaticsID": "1358502",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.108Z",
+    "lastUpdated": "2025-10-10T15:16:44.108Z"
+  },
+  {
+    "applicationNumber": "97331235",
+    "lawmaticsID": "1889013",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.142Z",
+    "lastUpdated": "2025-10-10T15:16:44.142Z"
+  },
+  {
+    "applicationNumber": "97350629",
+    "lawmaticsID": "1964163",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.165Z",
+    "lastUpdated": "2025-10-10T15:16:44.165Z"
+  },
+  {
+    "applicationNumber": "97374584",
+    "lawmaticsID": "3372033",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.201Z",
+    "lastUpdated": "2025-10-10T15:16:44.201Z"
+  },
+  {
+    "applicationNumber": "97381776",
+    "lawmaticsID": "2049676",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.239Z",
+    "lastUpdated": "2025-10-10T15:16:44.239Z"
+  },
+  {
+    "applicationNumber": "97392137",
+    "lawmaticsID": "2093529",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.282Z",
+    "lastUpdated": "2025-10-10T15:16:44.282Z"
+  },
+  {
+    "applicationNumber": "97403677",
+    "lawmaticsID": "1906260",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.312Z",
+    "lastUpdated": "2025-10-10T15:16:44.312Z"
+  },
+  {
+    "applicationNumber": "97414161",
+    "lawmaticsID": "2202469",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.336Z",
+    "lastUpdated": "2025-10-10T15:16:44.336Z"
+  },
+  {
+    "applicationNumber": "97424564",
+    "lawmaticsID": "1847621",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.355Z",
+    "lastUpdated": "2025-10-10T15:16:44.355Z"
+  },
+  {
+    "applicationNumber": "97457115",
+    "lawmaticsID": "2106956",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.377Z",
+    "lastUpdated": "2025-10-10T15:16:44.377Z"
+  },
+  {
+    "applicationNumber": "97457262",
+    "lawmaticsID": "2161279",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.398Z",
+    "lastUpdated": "2025-10-10T15:16:44.398Z"
+  },
+  {
+    "applicationNumber": "97477950",
+    "lawmaticsID": "2174583",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.417Z",
+    "lastUpdated": "2025-10-10T15:16:44.417Z"
+  },
+  {
+    "applicationNumber": "97478208",
+    "lawmaticsID": "2246925",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.441Z",
+    "lastUpdated": "2025-10-10T15:16:44.441Z"
+  },
+  {
+    "applicationNumber": "97478226",
+    "lawmaticsID": "2203626",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.468Z",
+    "lastUpdated": "2025-10-10T15:16:44.468Z"
+  },
+  {
+    "applicationNumber": "97488689",
+    "lawmaticsID": "2103183",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.497Z",
+    "lastUpdated": "2025-10-10T15:16:44.497Z"
+  },
+  {
+    "applicationNumber": "97489571",
+    "lawmaticsID": "2226120",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.531Z",
+    "lastUpdated": "2025-10-10T15:16:44.531Z"
+  },
+  {
+    "applicationNumber": "97503488",
+    "lawmaticsID": "7097175",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.566Z",
+    "lastUpdated": "2025-10-10T15:16:44.566Z"
+  },
+  {
+    "applicationNumber": "97505893",
+    "lawmaticsID": "7570072",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.601Z",
+    "lastUpdated": "2025-10-10T15:16:44.601Z"
+  },
+  {
+    "applicationNumber": "97509937",
+    "lawmaticsID": "2092100",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.636Z",
+    "lastUpdated": "2025-10-10T15:16:44.636Z"
+  },
+  {
+    "applicationNumber": "97512472",
+    "lawmaticsID": "2268480",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.670Z",
+    "lastUpdated": "2025-10-10T15:16:44.670Z"
+  },
+  {
+    "applicationNumber": "97529549",
+    "lawmaticsID": "2306662",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.700Z",
+    "lastUpdated": "2025-10-10T15:16:44.700Z"
+  },
+  {
+    "applicationNumber": "97538457",
+    "lawmaticsID": "4864012",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.731Z",
+    "lastUpdated": "2025-10-10T15:16:44.731Z"
+  },
+  {
+    "applicationNumber": "97541635",
+    "lawmaticsID": "2214925",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.764Z",
+    "lastUpdated": "2025-10-10T15:16:44.764Z"
+  },
+  {
+    "applicationNumber": "97553223",
+    "lawmaticsID": "7692335",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.799Z",
+    "lastUpdated": "2025-10-10T15:16:44.799Z"
+  },
+  {
+    "applicationNumber": "97560352",
+    "lawmaticsID": "2456718",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.828Z",
+    "lastUpdated": "2025-10-10T15:16:44.828Z"
+  },
+  {
+    "applicationNumber": "97579524",
+    "lawmaticsID": "1431922",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.853Z",
+    "lastUpdated": "2025-10-10T15:16:44.853Z"
+  },
+  {
+    "applicationNumber": "97579583",
+    "lawmaticsID": "1845823",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.873Z",
+    "lastUpdated": "2025-10-10T15:16:44.873Z"
+  },
+  {
+    "applicationNumber": "97597195",
+    "lawmaticsID": "2176228",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.899Z",
+    "lastUpdated": "2025-10-10T15:16:44.899Z"
+  },
+  {
+    "applicationNumber": "97609464",
+    "lawmaticsID": "2394095",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.923Z",
+    "lastUpdated": "2025-10-10T15:16:44.923Z"
+  },
+  {
+    "applicationNumber": "97609481",
+    "lawmaticsID": "12401527",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.952Z",
+    "lastUpdated": "2025-10-10T15:16:44.952Z"
+  },
+  {
+    "applicationNumber": "97609517",
+    "lawmaticsID": "6836787",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.972Z",
+    "lastUpdated": "2025-10-10T15:16:44.972Z"
+  },
+  {
+    "applicationNumber": "97642135",
+    "lawmaticsID": "8493435",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:44.991Z",
+    "lastUpdated": "2025-10-10T15:16:44.991Z"
+  },
+  {
+    "applicationNumber": "97657949",
+    "lawmaticsID": "2316799",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.010Z",
+    "lastUpdated": "2025-10-10T15:16:45.010Z"
+  },
+  {
+    "applicationNumber": "97668530",
+    "lawmaticsID": "2321754",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.026Z",
+    "lastUpdated": "2025-10-10T15:16:45.026Z"
+  },
+  {
+    "applicationNumber": "97670382",
+    "lawmaticsID": "3071843",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.039Z",
+    "lastUpdated": "2025-10-10T15:16:45.039Z"
+  },
+  {
+    "applicationNumber": "97671218",
+    "lawmaticsID": "9402539",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.055Z",
+    "lastUpdated": "2025-10-10T15:16:45.055Z"
+  },
+  {
+    "applicationNumber": "97676852",
+    "lawmaticsID": "2798038",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.089Z",
+    "lastUpdated": "2025-10-10T15:16:45.089Z"
+  },
+  {
+    "applicationNumber": "97676877",
+    "lawmaticsID": "2582930",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.119Z",
+    "lastUpdated": "2025-10-10T15:16:45.119Z"
+  },
+  {
+    "applicationNumber": "97677092",
+    "lawmaticsID": "2678850",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.145Z",
+    "lastUpdated": "2025-10-10T15:16:45.145Z"
+  },
+  {
+    "applicationNumber": "97687149",
+    "lawmaticsID": "2679558",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.161Z",
+    "lastUpdated": "2025-10-10T15:16:45.161Z"
+  },
+  {
+    "applicationNumber": "97687156",
+    "lawmaticsID": "2646502",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.176Z",
+    "lastUpdated": "2025-10-10T15:16:45.176Z"
+  },
+  {
+    "applicationNumber": "97706227",
+    "lawmaticsID": "2489928",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.192Z",
+    "lastUpdated": "2025-10-10T15:16:45.192Z"
+  },
+  {
+    "applicationNumber": "97716122",
+    "lawmaticsID": "2703805",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.220Z",
+    "lastUpdated": "2025-10-10T15:16:45.220Z"
+  },
+  {
+    "applicationNumber": "97716156",
+    "lawmaticsID": "2569160",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.250Z",
+    "lastUpdated": "2025-10-10T15:16:45.250Z"
+  },
+  {
+    "applicationNumber": "97724914",
+    "lawmaticsID": "2780138",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.292Z",
+    "lastUpdated": "2025-10-10T15:16:45.292Z"
+  },
+  {
+    "applicationNumber": "97743448",
+    "lawmaticsID": "1906389",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.324Z",
+    "lastUpdated": "2025-10-10T15:16:45.324Z"
+  },
+  {
+    "applicationNumber": "97757077",
+    "lawmaticsID": "2989847",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.342Z",
+    "lastUpdated": "2025-10-10T15:16:45.342Z"
+  },
+  {
+    "applicationNumber": "97765629",
+    "lawmaticsID": "6478605",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.357Z",
+    "lastUpdated": "2025-10-10T15:16:45.357Z"
+  },
+  {
+    "applicationNumber": "97773846",
+    "lawmaticsID": "3337339",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.370Z",
+    "lastUpdated": "2025-10-10T15:16:45.370Z"
+  },
+  {
+    "applicationNumber": "97773865",
+    "lawmaticsID": "3337341",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.385Z",
+    "lastUpdated": "2025-10-10T15:16:45.385Z"
+  },
+  {
+    "applicationNumber": "97818811",
+    "lawmaticsID": "3738981",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.400Z",
+    "lastUpdated": "2025-10-10T15:16:45.400Z"
+  },
+  {
+    "applicationNumber": "97837047",
+    "lawmaticsID": "2779981",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.417Z",
+    "lastUpdated": "2025-10-10T15:16:45.418Z"
+  },
+  {
+    "applicationNumber": "97853599",
+    "lawmaticsID": "8606852",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.443Z",
+    "lastUpdated": "2025-10-10T15:16:45.443Z"
+  },
+  {
+    "applicationNumber": "97888559",
+    "lawmaticsID": "4091888",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.466Z",
+    "lastUpdated": "2025-10-10T15:16:45.466Z"
+  },
+  {
+    "applicationNumber": "97892675",
+    "lawmaticsID": "3003621",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.488Z",
+    "lastUpdated": "2025-10-10T15:16:45.488Z"
+  },
+  {
+    "applicationNumber": "97904047",
+    "lawmaticsID": "7573181",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.520Z",
+    "lastUpdated": "2025-10-10T15:16:45.520Z"
+  },
+  {
+    "applicationNumber": "98001676",
+    "lawmaticsID": "4538569",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.536Z",
+    "lastUpdated": "2025-10-10T15:16:45.536Z"
+  },
+  {
+    "applicationNumber": "98009912",
+    "lawmaticsID": "7467108",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.550Z",
+    "lastUpdated": "2025-10-10T15:16:45.550Z"
+  },
+  {
+    "applicationNumber": "98018681",
+    "lawmaticsID": "3720539",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.565Z",
+    "lastUpdated": "2025-10-10T15:16:45.565Z"
+  },
+  {
+    "applicationNumber": "98029350",
+    "lawmaticsID": "4392442",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.580Z",
+    "lastUpdated": "2025-10-10T15:16:45.580Z"
+  },
+  {
+    "applicationNumber": "98029356",
+    "lawmaticsID": "4737207",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.596Z",
+    "lastUpdated": "2025-10-10T15:16:45.596Z"
+  },
+  {
+    "applicationNumber": "98029364",
+    "lawmaticsID": "2609006",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.614Z",
+    "lastUpdated": "2025-10-10T15:16:45.614Z"
+  },
+  {
+    "applicationNumber": "98066147",
+    "lawmaticsID": "11125461",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.633Z",
+    "lastUpdated": "2025-10-10T15:16:45.633Z"
+  },
+  {
+    "applicationNumber": "98066148",
+    "lawmaticsID": "11162616",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.650Z",
+    "lastUpdated": "2025-10-10T15:16:45.650Z"
+  },
+  {
+    "applicationNumber": "98079351",
+    "lawmaticsID": "4570243",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.679Z",
+    "lastUpdated": "2025-10-10T15:16:45.679Z"
+  },
+  {
+    "applicationNumber": "98084461",
+    "lawmaticsID": "3897795",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.697Z",
+    "lastUpdated": "2025-10-10T15:16:45.697Z"
+  },
+  {
+    "applicationNumber": "98086167",
+    "lawmaticsID": "4910422",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.715Z",
+    "lastUpdated": "2025-10-10T15:16:45.715Z"
+  },
+  {
+    "applicationNumber": "98089748",
+    "lawmaticsID": "3975603",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.734Z",
+    "lastUpdated": "2025-10-10T15:16:45.734Z"
+  },
+  {
+    "applicationNumber": "98133299",
+    "lawmaticsID": "4920363",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.757Z",
+    "lastUpdated": "2025-10-10T15:16:45.757Z"
+  },
+  {
+    "applicationNumber": "98142978",
+    "lawmaticsID": "4978787",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.781Z",
+    "lastUpdated": "2025-10-10T15:16:45.781Z"
+  },
+  {
+    "applicationNumber": "98149189",
+    "lawmaticsID": "4777188",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.800Z",
+    "lastUpdated": "2025-10-10T15:16:45.800Z"
+  },
+  {
+    "applicationNumber": "98149203",
+    "lawmaticsID": "4777201",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.822Z",
+    "lastUpdated": "2025-10-10T15:16:45.822Z"
+  },
+  {
+    "applicationNumber": "98149239",
+    "lawmaticsID": "4737392",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.846Z",
+    "lastUpdated": "2025-10-10T15:16:45.846Z"
+  },
+  {
+    "applicationNumber": "98149314",
+    "lawmaticsID": "4747091",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.866Z",
+    "lastUpdated": "2025-10-10T15:16:45.866Z"
+  },
+  {
+    "applicationNumber": "98165138",
+    "lawmaticsID": "5223088",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.883Z",
+    "lastUpdated": "2025-10-10T15:16:45.883Z"
+  },
+  {
+    "applicationNumber": "98174837",
+    "lawmaticsID": "3756424",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.900Z",
+    "lastUpdated": "2025-10-10T15:16:45.900Z"
+  },
+  {
+    "applicationNumber": "98192457",
+    "lawmaticsID": "9634963",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.928Z",
+    "lastUpdated": "2025-10-10T15:16:45.928Z"
+  },
+  {
+    "applicationNumber": "98207598",
+    "lawmaticsID": "5327568",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.954Z",
+    "lastUpdated": "2025-10-10T15:16:45.954Z"
+  },
+  {
+    "applicationNumber": "98216519",
+    "lawmaticsID": "5246258",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:45.982Z",
+    "lastUpdated": "2025-10-10T15:16:45.982Z"
+  },
+  {
+    "applicationNumber": "98216661",
+    "lawmaticsID": "4903266",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.002Z",
+    "lastUpdated": "2025-10-10T15:16:46.002Z"
+  },
+  {
+    "applicationNumber": "98217096",
+    "lawmaticsID": "9973392",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.030Z",
+    "lastUpdated": "2025-10-10T15:16:46.030Z"
+  },
+  {
+    "applicationNumber": "98231590",
+    "lawmaticsID": "9499178",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.062Z",
+    "lastUpdated": "2025-10-10T15:16:46.062Z"
+  },
+  {
+    "applicationNumber": "98240342",
+    "lawmaticsID": "9433650",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.101Z",
+    "lastUpdated": "2025-10-10T15:16:46.101Z"
+  },
+  {
+    "applicationNumber": "98248961",
+    "lawmaticsID": "5167205",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.145Z",
+    "lastUpdated": "2025-10-10T15:16:46.145Z"
+  },
+  {
+    "applicationNumber": "98258468",
+    "lawmaticsID": "6593174",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.178Z",
+    "lastUpdated": "2025-10-10T15:16:46.178Z"
+  },
+  {
+    "applicationNumber": "98258482",
+    "lawmaticsID": "6579612",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.207Z",
+    "lastUpdated": "2025-10-10T15:16:46.207Z"
+  },
+  {
+    "applicationNumber": "98286114",
+    "lawmaticsID": "10004498",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.244Z",
+    "lastUpdated": "2025-10-10T15:16:46.244Z"
+  },
+  {
+    "applicationNumber": "98295329",
+    "lawmaticsID": "6580450",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.279Z",
+    "lastUpdated": "2025-10-10T15:16:46.279Z"
+  },
+  {
+    "applicationNumber": "98299376",
+    "lawmaticsID": "6459219",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.313Z",
+    "lastUpdated": "2025-10-10T15:16:46.313Z"
+  },
+  {
+    "applicationNumber": "98299407",
+    "lawmaticsID": "6334298",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.351Z",
+    "lastUpdated": "2025-10-10T15:16:46.351Z"
+  },
+  {
+    "applicationNumber": "98313365",
+    "lawmaticsID": "6513210",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.395Z",
+    "lastUpdated": "2025-10-10T15:16:46.395Z"
+  },
+  {
+    "applicationNumber": "98314058",
+    "lawmaticsID": "6851975",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.433Z",
+    "lastUpdated": "2025-10-10T15:16:46.433Z"
+  },
+  {
+    "applicationNumber": "98344476",
+    "lawmaticsID": "6381520",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.488Z",
+    "lastUpdated": "2025-10-10T15:16:46.488Z"
+  },
+  {
+    "applicationNumber": "98348599",
+    "lawmaticsID": "6323195",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.520Z",
+    "lastUpdated": "2025-10-10T15:16:46.520Z"
+  },
+  {
+    "applicationNumber": "98364820",
+    "lawmaticsID": "6658923",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.563Z",
+    "lastUpdated": "2025-10-10T15:16:46.563Z"
+  },
+  {
+    "applicationNumber": "98375260",
+    "lawmaticsID": "6700660",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.602Z",
+    "lastUpdated": "2025-10-10T15:16:46.602Z"
+  },
+  {
+    "applicationNumber": "98375288",
+    "lawmaticsID": "6768790",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.661Z",
+    "lastUpdated": "2025-10-10T15:16:46.661Z"
+  },
+  {
+    "applicationNumber": "98381275",
+    "lawmaticsID": "9006454",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.694Z",
+    "lastUpdated": "2025-10-10T15:16:46.694Z"
+  },
+  {
+    "applicationNumber": "98393557",
+    "lawmaticsID": "7032167",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.728Z",
+    "lastUpdated": "2025-10-10T15:16:46.728Z"
+  },
+  {
+    "applicationNumber": "98393635",
+    "lawmaticsID": "926712",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.759Z",
+    "lastUpdated": "2025-10-10T15:16:46.759Z"
+  },
+  {
+    "applicationNumber": "98393654",
+    "lawmaticsID": "6709046",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.784Z",
+    "lastUpdated": "2025-10-10T15:16:46.784Z"
+  },
+  {
+    "applicationNumber": "98393818",
+    "lawmaticsID": "6708951",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.830Z",
+    "lastUpdated": "2025-10-10T15:16:46.830Z"
+  },
+  {
+    "applicationNumber": "98393841",
+    "lawmaticsID": "6708963",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.867Z",
+    "lastUpdated": "2025-10-10T15:16:46.867Z"
+  },
+  {
+    "applicationNumber": "98393864",
+    "lawmaticsID": "6708982",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.898Z",
+    "lastUpdated": "2025-10-10T15:16:46.898Z"
+  },
+  {
+    "applicationNumber": "98393901",
+    "lawmaticsID": "6708997",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.929Z",
+    "lastUpdated": "2025-10-10T15:16:46.929Z"
+  },
+  {
+    "applicationNumber": "98393922",
+    "lawmaticsID": "6709002",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.952Z",
+    "lastUpdated": "2025-10-10T15:16:46.952Z"
+  },
+  {
+    "applicationNumber": "98393941",
+    "lawmaticsID": "6709013",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:46.992Z",
+    "lastUpdated": "2025-10-10T15:16:46.992Z"
+  },
+  {
+    "applicationNumber": "98393949",
+    "lawmaticsID": "6709040",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.029Z",
+    "lastUpdated": "2025-10-10T15:16:47.029Z"
+  },
+  {
+    "applicationNumber": "98393965",
+    "lawmaticsID": "6708945",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.069Z",
+    "lastUpdated": "2025-10-10T15:16:47.069Z"
+  },
+  {
+    "applicationNumber": "98403683",
+    "lawmaticsID": "7075670",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.102Z",
+    "lastUpdated": "2025-10-10T15:16:47.102Z"
+  },
+  {
+    "applicationNumber": "98425879",
+    "lawmaticsID": "11856506",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.139Z",
+    "lastUpdated": "2025-10-10T15:16:47.139Z"
+  },
+  {
+    "applicationNumber": "98425898",
+    "lawmaticsID": "7075892",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.172Z",
+    "lastUpdated": "2025-10-10T15:16:47.172Z"
+  },
+  {
+    "applicationNumber": "98444948",
+    "lawmaticsID": "6886239",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.212Z",
+    "lastUpdated": "2025-10-10T15:16:47.212Z"
+  },
+  {
+    "applicationNumber": "98444972",
+    "lawmaticsID": "7271763",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.235Z",
+    "lastUpdated": "2025-10-10T15:16:47.235Z"
+  },
+  {
+    "applicationNumber": "98444986",
+    "lawmaticsID": "7208867",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.278Z",
+    "lastUpdated": "2025-10-10T15:16:47.278Z"
+  },
+  {
+    "applicationNumber": "98445254",
+    "lawmaticsID": "7165647",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.328Z",
+    "lastUpdated": "2025-10-10T15:16:47.328Z"
+  },
+  {
+    "applicationNumber": "98445381",
+    "lawmaticsID": "6933394",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.366Z",
+    "lastUpdated": "2025-10-10T15:16:47.366Z"
+  },
+  {
+    "applicationNumber": "98506884",
+    "lawmaticsID": "7544479",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.401Z",
+    "lastUpdated": "2025-10-10T15:16:47.401Z"
+  },
+  {
+    "applicationNumber": "98540555",
+    "lawmaticsID": "7108740",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.421Z",
+    "lastUpdated": "2025-10-10T15:16:47.421Z"
+  },
+  {
+    "applicationNumber": "98549595",
+    "lawmaticsID": "7907509",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.455Z",
+    "lastUpdated": "2025-10-10T15:16:47.455Z"
+  },
+  {
+    "applicationNumber": "98561416",
+    "lawmaticsID": "10389881",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.497Z",
+    "lastUpdated": "2025-10-10T15:16:47.497Z"
+  },
+  {
+    "applicationNumber": "98578108",
+    "lawmaticsID": "11066754",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.523Z",
+    "lastUpdated": "2025-10-10T15:16:47.523Z"
+  },
+  {
+    "applicationNumber": "98595243",
+    "lawmaticsID": "7612318",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.567Z",
+    "lastUpdated": "2025-10-10T15:16:47.567Z"
+  },
+  {
+    "applicationNumber": "98607530",
+    "lawmaticsID": "2103127",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.612Z",
+    "lastUpdated": "2025-10-10T15:16:47.612Z"
+  },
+  {
+    "applicationNumber": "98617700",
+    "lawmaticsID": "7148043",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.649Z",
+    "lastUpdated": "2025-10-10T15:16:47.649Z"
+  },
+  {
+    "applicationNumber": "98624239",
+    "lawmaticsID": "12629184",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.692Z",
+    "lastUpdated": "2025-10-10T15:16:47.692Z"
+  },
+  {
+    "applicationNumber": "98639011",
+    "lawmaticsID": "6778093",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.737Z",
+    "lastUpdated": "2025-10-10T15:16:47.737Z"
+  },
+  {
+    "applicationNumber": "98655993",
+    "lawmaticsID": "7565848",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.775Z",
+    "lastUpdated": "2025-10-10T15:16:47.775Z"
+  },
+  {
+    "applicationNumber": "98684714",
+    "lawmaticsID": "8298814",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.803Z",
+    "lastUpdated": "2025-10-10T15:16:47.803Z"
+  },
+  {
+    "applicationNumber": "98684822",
+    "lawmaticsID": "7901817",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.843Z",
+    "lastUpdated": "2025-10-10T15:16:47.843Z"
+  },
+  {
+    "applicationNumber": "98694889",
+    "lawmaticsID": "8100516",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.876Z",
+    "lastUpdated": "2025-10-10T15:16:47.876Z"
+  },
+  {
+    "applicationNumber": "98694897",
+    "lawmaticsID": "8439615",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.912Z",
+    "lastUpdated": "2025-10-10T15:16:47.913Z"
+  },
+  {
+    "applicationNumber": "98694928",
+    "lawmaticsID": "7918672",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.947Z",
+    "lastUpdated": "2025-10-10T15:16:47.947Z"
+  },
+  {
+    "applicationNumber": "98694935",
+    "lawmaticsID": "7648604",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:47.988Z",
+    "lastUpdated": "2025-10-10T15:16:47.988Z"
+  },
+  {
+    "applicationNumber": "98694945",
+    "lawmaticsID": "7918631",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.029Z",
+    "lastUpdated": "2025-10-10T15:16:48.029Z"
+  },
+  {
+    "applicationNumber": "98703297",
+    "lawmaticsID": "8337846",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.075Z",
+    "lastUpdated": "2025-10-10T15:16:48.075Z"
+  },
+  {
+    "applicationNumber": "98703300",
+    "lawmaticsID": "8337858",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.121Z",
+    "lastUpdated": "2025-10-10T15:16:48.121Z"
+  },
+  {
+    "applicationNumber": "98707559",
+    "lawmaticsID": "8797866",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.171Z",
+    "lastUpdated": "2025-10-10T15:16:48.171Z"
+  },
+  {
+    "applicationNumber": "98717961",
+    "lawmaticsID": "7940769",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.217Z",
+    "lastUpdated": "2025-10-10T15:16:48.217Z"
+  },
+  {
+    "applicationNumber": "98717983",
+    "lawmaticsID": "7879249",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.258Z",
+    "lastUpdated": "2025-10-10T15:16:48.258Z"
+  },
+  {
+    "applicationNumber": "98718006",
+    "lawmaticsID": "8579810",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.280Z",
+    "lastUpdated": "2025-10-10T15:16:48.280Z"
+  },
+  {
+    "applicationNumber": "98718018",
+    "lawmaticsID": "8588890",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.322Z",
+    "lastUpdated": "2025-10-10T15:16:48.322Z"
+  },
+  {
+    "applicationNumber": "98718031",
+    "lawmaticsID": "8777390",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.363Z",
+    "lastUpdated": "2025-10-10T15:16:48.363Z"
+  },
+  {
+    "applicationNumber": "98750302",
+    "lawmaticsID": "8619694",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.385Z",
+    "lastUpdated": "2025-10-10T15:16:48.385Z"
+  },
+  {
+    "applicationNumber": "98750326",
+    "lawmaticsID": "7109619",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.423Z",
+    "lastUpdated": "2025-10-10T15:16:48.423Z"
+  },
+  {
+    "applicationNumber": "98755864",
+    "lawmaticsID": "9574475",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.470Z",
+    "lastUpdated": "2025-10-10T15:16:48.470Z"
+  },
+  {
+    "applicationNumber": "98785047",
+    "lawmaticsID": "7179621",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.521Z",
+    "lastUpdated": "2025-10-10T15:16:48.521Z"
+  },
+  {
+    "applicationNumber": "98872417",
+    "lawmaticsID": "9560652",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.559Z",
+    "lastUpdated": "2025-10-10T15:16:48.559Z"
+  },
+  {
+    "applicationNumber": "98874143",
+    "lawmaticsID": "9433315",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.593Z",
+    "lastUpdated": "2025-10-10T15:16:48.593Z"
+  },
+  {
+    "applicationNumber": "98874193",
+    "lawmaticsID": "9532338",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.623Z",
+    "lastUpdated": "2025-10-10T15:16:48.623Z"
+  },
+  {
+    "applicationNumber": "98882226",
+    "lawmaticsID": "8880431",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.655Z",
+    "lastUpdated": "2025-10-10T15:16:48.655Z"
+  },
+  {
+    "applicationNumber": "98907084",
+    "lawmaticsID": "9050884",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.687Z",
+    "lastUpdated": "2025-10-10T15:16:48.687Z"
+  },
+  {
+    "applicationNumber": "98965697",
+    "lawmaticsID": "9963779",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.722Z",
+    "lastUpdated": "2025-10-10T15:16:48.722Z"
+  },
+  {
+    "applicationNumber": "98965798",
+    "lawmaticsID": "9651763",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.759Z",
+    "lastUpdated": "2025-10-10T15:16:48.760Z"
+  },
+  {
+    "applicationNumber": "99009149",
+    "lawmaticsID": "9466602",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.799Z",
+    "lastUpdated": "2025-10-10T15:16:48.799Z"
+  },
+  {
+    "applicationNumber": "99009178",
+    "lawmaticsID": "10130020",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.834Z",
+    "lastUpdated": "2025-10-10T15:16:48.834Z"
+  },
+  {
+    "applicationNumber": "99009208",
+    "lawmaticsID": "10130022",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.875Z",
+    "lastUpdated": "2025-10-10T15:16:48.875Z"
+  },
+  {
+    "applicationNumber": "99009227",
+    "lawmaticsID": "10130025",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.901Z",
+    "lastUpdated": "2025-10-10T15:16:48.901Z"
+  },
+  {
+    "applicationNumber": "99009246",
+    "lawmaticsID": "10130031",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.933Z",
+    "lastUpdated": "2025-10-10T15:16:48.933Z"
+  },
+  {
+    "applicationNumber": "99009252",
+    "lawmaticsID": "10130072",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:48.972Z",
+    "lastUpdated": "2025-10-10T15:16:48.972Z"
+  },
+  {
+    "applicationNumber": "99009265",
+    "lawmaticsID": "10130078",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.016Z",
+    "lastUpdated": "2025-10-10T15:16:49.016Z"
+  },
+  {
+    "applicationNumber": "99009274",
+    "lawmaticsID": "10130079",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.064Z",
+    "lastUpdated": "2025-10-10T15:16:49.064Z"
+  },
+  {
+    "applicationNumber": "99009290",
+    "lawmaticsID": "10130084",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.103Z",
+    "lastUpdated": "2025-10-10T15:16:49.103Z"
+  },
+  {
+    "applicationNumber": "99009327",
+    "lawmaticsID": "10130089",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.137Z",
+    "lastUpdated": "2025-10-10T15:16:49.137Z"
+  },
+  {
+    "applicationNumber": "99009340",
+    "lawmaticsID": "10130092",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.190Z",
+    "lastUpdated": "2025-10-10T15:16:49.191Z"
+  },
+  {
+    "applicationNumber": "99009570",
+    "lawmaticsID": "10130097",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.239Z",
+    "lastUpdated": "2025-10-10T15:16:49.239Z"
+  },
+  {
+    "applicationNumber": "99009585",
+    "lawmaticsID": "10130103",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.277Z",
+    "lastUpdated": "2025-10-10T15:16:49.277Z"
+  },
+  {
+    "applicationNumber": "99010011",
+    "lawmaticsID": "10130109",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.309Z",
+    "lastUpdated": "2025-10-10T15:16:49.309Z"
+  },
+  {
+    "applicationNumber": "99010031",
+    "lawmaticsID": "10130115",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.333Z",
+    "lastUpdated": "2025-10-10T15:16:49.333Z"
+  },
+  {
+    "applicationNumber": "99010049",
+    "lawmaticsID": "10130118",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.376Z",
+    "lastUpdated": "2025-10-10T15:16:49.376Z"
+  },
+  {
+    "applicationNumber": "99010061",
+    "lawmaticsID": "10130124",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.399Z",
+    "lastUpdated": "2025-10-10T15:16:49.399Z"
+  },
+  {
+    "applicationNumber": "99010641",
+    "lawmaticsID": "10130130",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.419Z",
+    "lastUpdated": "2025-10-10T15:16:49.419Z"
+  },
+  {
+    "applicationNumber": "99011905",
+    "lawmaticsID": "9649647",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.437Z",
+    "lastUpdated": "2025-10-10T15:16:49.437Z"
+  },
+  {
+    "applicationNumber": "99011931",
+    "lawmaticsID": "10021152",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.458Z",
+    "lastUpdated": "2025-10-10T15:16:49.458Z"
+  },
+  {
+    "applicationNumber": "99011984",
+    "lawmaticsID": "9832115",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.488Z",
+    "lastUpdated": "2025-10-10T15:16:49.488Z"
+  },
+  {
+    "applicationNumber": "99020689",
+    "lawmaticsID": "8383877",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.531Z",
+    "lastUpdated": "2025-10-10T15:16:49.531Z"
+  },
+  {
+    "applicationNumber": "99025740",
+    "lawmaticsID": "10035351",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.577Z",
+    "lastUpdated": "2025-10-10T15:16:49.577Z"
+  },
+  {
+    "applicationNumber": "99026396",
+    "lawmaticsID": "10665401",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.612Z",
+    "lastUpdated": "2025-10-10T15:16:49.612Z"
+  },
+  {
+    "applicationNumber": "99036548",
+    "lawmaticsID": "9547455",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.636Z",
+    "lastUpdated": "2025-10-10T15:16:49.636Z"
+  },
+  {
+    "applicationNumber": "99055292",
+    "lawmaticsID": "5401742",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.675Z",
+    "lastUpdated": "2025-10-10T15:16:49.675Z"
+  },
+  {
+    "applicationNumber": "99055307",
+    "lawmaticsID": "10548055",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.708Z",
+    "lastUpdated": "2025-10-10T15:16:49.708Z"
+  },
+  {
+    "applicationNumber": "99074743",
+    "lawmaticsID": "11527990",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.740Z",
+    "lastUpdated": "2025-10-10T15:16:49.740Z"
+  },
+  {
+    "applicationNumber": "99076754",
+    "lawmaticsID": "10462604",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.775Z",
+    "lastUpdated": "2025-10-10T15:16:49.775Z"
+  },
+  {
+    "applicationNumber": "99089681",
+    "lawmaticsID": "9333950",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.806Z",
+    "lastUpdated": "2025-10-10T15:16:49.806Z"
+  },
+  {
+    "applicationNumber": "99160243",
+    "lawmaticsID": "592128",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.839Z",
+    "lastUpdated": "2025-10-10T15:16:49.839Z"
+  },
+  {
+    "applicationNumber": "99182253",
+    "lawmaticsID": "10842776",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.874Z",
+    "lastUpdated": "2025-10-10T15:16:49.874Z"
+  },
+  {
+    "applicationNumber": "99193682",
+    "lawmaticsID": "10785461",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.903Z",
+    "lastUpdated": "2025-10-10T15:16:49.903Z"
+  },
+  {
+    "applicationNumber": "99203442",
+    "lawmaticsID": "8576674",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.938Z",
+    "lastUpdated": "2025-10-10T15:16:49.938Z"
+  },
+  {
+    "applicationNumber": "99203456",
+    "lawmaticsID": "11326317",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:49.973Z",
+    "lastUpdated": "2025-10-10T15:16:49.973Z"
+  },
+  {
+    "applicationNumber": "99211311",
+    "lawmaticsID": "10920224",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.013Z",
+    "lastUpdated": "2025-10-10T15:16:50.013Z"
+  },
+  {
+    "applicationNumber": "99211322",
+    "lawmaticsID": "11718113",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.048Z",
+    "lastUpdated": "2025-10-10T15:16:50.048Z"
+  },
+  {
+    "applicationNumber": "99215286",
+    "lawmaticsID": "10626783",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.069Z",
+    "lastUpdated": "2025-10-10T15:16:50.069Z"
+  },
+  {
+    "applicationNumber": "99215305",
+    "lawmaticsID": "10626740",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.103Z",
+    "lastUpdated": "2025-10-10T15:16:50.103Z"
+  },
+  {
+    "applicationNumber": "99239514",
+    "lawmaticsID": "11777776",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.138Z",
+    "lastUpdated": "2025-10-10T15:16:50.138Z"
+  },
+  {
+    "applicationNumber": "99249678",
+    "lawmaticsID": "11145099",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.174Z",
+    "lastUpdated": "2025-10-10T15:16:50.174Z"
+  },
+  {
+    "applicationNumber": "99308147",
+    "lawmaticsID": "11896104",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.219Z",
+    "lastUpdated": "2025-10-10T15:16:50.219Z"
+  },
+  {
+    "applicationNumber": "99316169",
+    "lawmaticsID": "11718512",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.267Z",
+    "lastUpdated": "2025-10-10T15:16:50.267Z"
+  },
+  {
+    "applicationNumber": "99316178",
+    "lawmaticsID": "12168731",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.305Z",
+    "lastUpdated": "2025-10-10T15:16:50.305Z"
+  },
+  {
+    "applicationNumber": "99316391",
+    "lawmaticsID": "12237713",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.325Z",
+    "lastUpdated": "2025-10-10T15:16:50.325Z"
+  },
+  {
+    "applicationNumber": "99316406",
+    "lawmaticsID": "12413072",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.357Z",
+    "lastUpdated": "2025-10-10T15:16:50.357Z"
+  },
+  {
+    "applicationNumber": "99323461",
+    "lawmaticsID": "9642007",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.384Z",
+    "lastUpdated": "2025-10-10T15:16:50.384Z"
+  },
+  {
+    "applicationNumber": "99338070",
+    "lawmaticsID": "11955363",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.410Z",
+    "lastUpdated": "2025-10-10T15:16:50.410Z"
+  },
+  {
+    "applicationNumber": "99339040",
+    "lawmaticsID": "11920676",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.432Z",
+    "lastUpdated": "2025-10-10T15:16:50.432Z"
+  },
+  {
+    "applicationNumber": "99361749",
+    "lawmaticsID": "12238230",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.470Z",
+    "lastUpdated": "2025-10-10T15:16:50.470Z"
+  },
+  {
+    "applicationNumber": "99369682",
+    "lawmaticsID": "12555174",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.514Z",
+    "lastUpdated": "2025-10-10T15:16:50.514Z"
+  },
+  {
+    "applicationNumber": "11143679",
+    "lawmaticsID": "551492",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.559Z",
+    "lastUpdated": "2025-10-10T15:16:50.559Z"
+  },
+  {
+    "applicationNumber": "13862007",
+    "lawmaticsID": "551294",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.597Z",
+    "lastUpdated": "2025-10-10T15:16:50.597Z"
+  },
+  {
+    "applicationNumber": "13998278",
+    "lawmaticsID": "551436",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.633Z",
+    "lastUpdated": "2025-10-10T15:16:50.633Z"
+  },
+  {
+    "applicationNumber": "14288295",
+    "lawmaticsID": "551486",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.672Z",
+    "lastUpdated": "2025-10-10T15:16:50.672Z"
+  },
+  {
+    "applicationNumber": "14338234",
+    "lawmaticsID": "551304",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.720Z",
+    "lastUpdated": "2025-10-10T15:16:50.720Z"
+  },
+  {
+    "applicationNumber": "14949823",
+    "lawmaticsID": "551432",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.763Z",
+    "lastUpdated": "2025-10-10T15:16:50.763Z"
+  },
+  {
+    "applicationNumber": "14977186",
+    "lawmaticsID": "635432",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.804Z",
+    "lastUpdated": "2025-10-10T15:16:50.804Z"
+  },
+  {
+    "applicationNumber": "15143966",
+    "lawmaticsID": "2247036",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.826Z",
+    "lastUpdated": "2025-10-10T15:16:50.826Z"
+  },
+  {
+    "applicationNumber": "15162612",
+    "lawmaticsID": "551311",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.861Z",
+    "lastUpdated": "2025-10-10T15:16:50.861Z"
+  },
+  {
+    "applicationNumber": "15222901",
+    "lawmaticsID": "551476",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.902Z",
+    "lastUpdated": "2025-10-10T15:16:50.902Z"
+  },
+  {
+    "applicationNumber": "15430618",
+    "lawmaticsID": "635454",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.945Z",
+    "lastUpdated": "2025-10-10T15:16:50.945Z"
+  },
+  {
+    "applicationNumber": "16122748",
+    "lawmaticsID": "635553",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:50.997Z",
+    "lastUpdated": "2025-10-10T15:16:50.997Z"
+  },
+  {
+    "applicationNumber": "29554559",
+    "lawmaticsID": "551495",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.030Z",
+    "lastUpdated": "2025-10-10T15:16:51.030Z"
+  },
+  {
+    "applicationNumber": "29554560",
+    "lawmaticsID": "551494",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.068Z",
+    "lastUpdated": "2025-10-10T15:16:51.068Z"
+  },
+  {
+    "applicationNumber": "62165185",
+    "lawmaticsID": "551467",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.091Z",
+    "lastUpdated": "2025-10-10T15:16:51.091Z"
+  },
+  {
+    "applicationNumber": "62300004",
+    "lawmaticsID": "551471",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.130Z",
+    "lastUpdated": "2025-10-10T15:16:51.130Z"
+  },
+  {
+    "applicationNumber": "62452444",
+    "lawmaticsID": "551367",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.170Z",
+    "lastUpdated": "2025-10-10T15:16:51.170Z"
+  },
+  {
+    "applicationNumber": "62560290",
+    "lawmaticsID": "551462",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.187Z",
+    "lastUpdated": "2025-10-10T15:16:51.187Z"
+  },
+  {
+    "applicationNumber": "62638792",
+    "lawmaticsID": "551468",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.223Z",
+    "lastUpdated": "2025-10-10T15:16:51.223Z"
+  },
+  {
+    "applicationNumber": "62900327",
+    "lawmaticsID": "551461",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.274Z",
+    "lastUpdated": "2025-10-10T15:16:51.275Z"
+  },
+  {
+    "applicationNumber": "63515553",
+    "lawmaticsID": "4946768",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.316Z",
+    "lastUpdated": "2025-10-10T15:16:51.316Z"
+  },
+  {
+    "applicationNumber": "63587498",
+    "lawmaticsID": "5429752",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.355Z",
+    "lastUpdated": "2025-10-10T15:16:51.355Z"
+  },
+  {
+    "applicationNumber": "76665794",
+    "lawmaticsID": "551695",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.382Z",
+    "lastUpdated": "2025-10-10T15:16:51.382Z"
+  },
+  {
+    "applicationNumber": "PCT/US15/58900",
+    "lawmaticsID": "552061",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.426Z",
+    "lastUpdated": "2025-10-10T15:16:51.426Z"
+  },
+  {
+    "applicationNumber": "PCT/US20/15976",
+    "lawmaticsID": "656058",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.471Z",
+    "lastUpdated": "2025-10-10T15:16:51.471Z"
+  },
+  {
+    "applicationNumber": "PCT/US20/50026",
+    "lawmaticsID": "666884",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.510Z",
+    "lastUpdated": "2025-10-10T15:16:51.510Z"
+  },
+  {
+    "applicationNumber": "PCT/US21/29481",
+    "lawmaticsID": "987306",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.564Z",
+    "lastUpdated": "2025-10-10T15:16:51.564Z"
+  },
+  {
+    "applicationNumber": "PCT/US21/29767",
+    "lawmaticsID": "1082306",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.608Z",
+    "lastUpdated": "2025-10-10T15:16:51.608Z"
+  },
+  {
+    "applicationNumber": "PCT/US22/36361",
+    "lawmaticsID": "1268178",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.638Z",
+    "lastUpdated": "2025-10-10T15:16:51.638Z"
+  },
+  {
+    "applicationNumber": "PCT/US24/36491",
+    "lawmaticsID": "6715363",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:16:51.677Z",
+    "lastUpdated": "2025-10-10T15:16:51.677Z"
+  },
+  {
+    "applicationNumber": "12782037",
+    "lawmaticsID": "2043136",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:19:34.124Z",
+    "lastUpdated": "2025-10-10T15:19:34.124Z"
+  },
+  {
+    "applicationNumber": "13684127",
+    "lawmaticsID": "2814823",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.497Z",
+    "lastUpdated": "2025-10-10T15:23:28.497Z"
+  },
+  {
+    "applicationNumber": "14062880",
+    "lawmaticsID": "635579",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.518Z",
+    "lastUpdated": "2025-10-10T15:23:28.518Z"
+  },
+  {
+    "applicationNumber": "14070026",
+    "lawmaticsID": "990917",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.533Z",
+    "lastUpdated": "2025-10-10T15:23:28.533Z"
+  },
+  {
+    "applicationNumber": "15169677",
+    "lawmaticsID": "812757",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.549Z",
+    "lastUpdated": "2025-10-10T15:23:28.549Z"
+  },
+  {
+    "applicationNumber": "15644788",
+    "lawmaticsID": "698027",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.565Z",
+    "lastUpdated": "2025-10-10T15:23:28.565Z"
+  },
+  {
+    "applicationNumber": "16301415",
+    "lawmaticsID": "635662",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.587Z",
+    "lastUpdated": "2025-10-10T15:23:28.587Z"
+  },
+  {
+    "applicationNumber": "16380707",
+    "lawmaticsID": "694361",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.617Z",
+    "lastUpdated": "2025-10-10T15:23:28.617Z"
+  },
+  {
+    "applicationNumber": "16398140",
+    "lawmaticsID": "551563",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.643Z",
+    "lastUpdated": "2025-10-10T15:23:28.643Z"
+  },
+  {
+    "applicationNumber": "16548743",
+    "lawmaticsID": "670861",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.689Z",
+    "lastUpdated": "2025-10-10T15:23:28.689Z"
+  },
+  {
+    "applicationNumber": "16578196",
+    "lawmaticsID": "1358194",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.724Z",
+    "lastUpdated": "2025-10-10T15:23:28.724Z"
+  },
+  {
+    "applicationNumber": "16790728",
+    "lawmaticsID": "670862",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.762Z",
+    "lastUpdated": "2025-10-10T15:23:28.762Z"
+  },
+  {
+    "applicationNumber": "17300008",
+    "lawmaticsID": "1869967",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.835Z",
+    "lastUpdated": "2025-10-10T15:23:28.835Z"
+  },
+  {
+    "applicationNumber": "17510026",
+    "lawmaticsID": "1489433",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.854Z",
+    "lastUpdated": "2025-10-10T15:23:28.854Z"
+  },
+  {
+    "applicationNumber": "17658820",
+    "lawmaticsID": "7894183",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.884Z",
+    "lastUpdated": "2025-10-10T15:23:28.884Z"
+  },
+  {
+    "applicationNumber": "18506798",
+    "lawmaticsID": "1711713",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.915Z",
+    "lastUpdated": "2025-10-10T15:23:28.915Z"
+  },
+  {
+    "applicationNumber": "62503918",
+    "lawmaticsID": "551360",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.952Z",
+    "lastUpdated": "2025-10-10T15:23:28.952Z"
+  },
+  {
+    "applicationNumber": "62982735",
+    "lawmaticsID": "799475",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:28.988Z",
+    "lastUpdated": "2025-10-10T15:23:28.988Z"
+  },
+  {
+    "applicationNumber": "63228571",
+    "lawmaticsID": "1228631",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:29.018Z",
+    "lastUpdated": "2025-10-10T15:23:29.018Z"
+  },
+  {
+    "applicationNumber": "63300581",
+    "lawmaticsID": "1894976",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:29.068Z",
+    "lastUpdated": "2025-10-10T15:23:29.068Z"
+  },
+  {
+    "applicationNumber": "63557918",
+    "lawmaticsID": "5146587",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:29.101Z",
+    "lastUpdated": "2025-10-10T15:23:29.101Z"
+  },
+  {
+    "applicationNumber": "63596649",
+    "lawmaticsID": "6433799",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:29.136Z",
+    "lastUpdated": "2025-10-10T15:23:29.136Z"
+  },
+  {
+    "applicationNumber": "63711384",
+    "lawmaticsID": "9643287",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:29.168Z",
+    "lastUpdated": "2025-10-10T15:23:29.168Z"
+  },
+  {
+    "applicationNumber": "63711397",
+    "lawmaticsID": "9650934",
+    "type": "Patent",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:29.199Z",
+    "lastUpdated": "2025-10-10T15:23:29.199Z"
+  },
+  {
+    "applicationNumber": "85134345",
+    "lawmaticsID": "655598",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:29.220Z",
+    "lastUpdated": "2025-10-10T15:23:29.220Z"
+  },
+  {
+    "applicationNumber": "86203805",
+    "lawmaticsID": "674237",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:29.256Z",
+    "lastUpdated": "2025-10-10T15:23:29.256Z"
+  },
+  {
+    "applicationNumber": "87876201",
+    "lawmaticsID": "1003406",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:29.292Z",
+    "lastUpdated": "2025-10-10T15:23:29.292Z"
+  },
+  {
+    "applicationNumber": "88917100",
+    "lawmaticsID": "679893",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:29.329Z",
+    "lastUpdated": "2025-10-10T15:23:29.329Z"
+  },
+  {
+    "applicationNumber": "90269972",
+    "lawmaticsID": "687830",
+    "type": "Trademark",
+    "status": "Pending Automation",
+    "createdAt": "2025-10-10T15:23:29.373Z",
+    "lastUpdated": "2025-10-10T15:23:29.373Z"
+  }
+]
