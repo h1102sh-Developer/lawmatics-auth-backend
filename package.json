@@ -1,0 +1,38 @@
+{
+    "name": "uspto-monitor-vercel",
+    "version": "1.0.0",
+    "description": "USPTO Monitoring System with 6-hour checks",
+    "main": "lib/unified-uspto-monitor.js",
+    "scripts": {
+      "dev": "vercel dev",
+      "deploy": "vercel --prod",
+      "monitor": "node lib/unified-uspto-monitor.js",
+      "report": "node lib/unified-uspto-monitor.js --latest-dates-email",
+      "test": "node lib/unified-uspto-monitor.js --test-one"
+    },
+    "dependencies": {
+      "axios": "^1.6.0",
+      "cron": "^3.1.6",
+      "dotenv": "^16.3.0",
+      "fs": "^0.0.1-security",
+      "nodemailer": "^6.9.0",
+      "xml2js": "^0.6.2",
+      "puppeteer": "^21.0.0",
+      "puppeteer-core": "^21.0.0",
+      "@sparticuz/chromium-min": "^121.0.0",
+      "path": "^0.12.7"
+    },
+    "devDependencies": {
+      "vercel": "^28.0.0"
+    },
+    "engines": {
+      "node": ">=18.x"
+    },
+    "keywords": [
+      "uspto",
+      "patent",
+      "trademark",
+      "monitoring",
+      "automation"
+    ]
+  }
